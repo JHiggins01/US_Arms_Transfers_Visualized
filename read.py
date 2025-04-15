@@ -29,4 +29,12 @@ trimmed_trade = trimmed_trade.drop(columns = ['Order date is estimate',
 trimmed_trade.to_csv('trimmed_trade.csv')
 
 # %%
+#grouping by different values
+################################
+#group by country by year
+by_year = trimmed_trade.groupby(['Recipient', 'Delivery year'])['TIV delivery values'].sum().reset_index()
 
+#group by country only
+by_country = by_year.groupby(['Recipient'])['TIV delivery values'].sum().reset_index()
+
+#grouping by weapon type
