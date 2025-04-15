@@ -27,3 +27,6 @@ trimmed_trade = trimmed_trade.drop(columns = ['Order date is estimate',
 
 #saving to a csv
 trimmed_trade.to_csv('trimmed_trade.csv')
+
+# %%
+
