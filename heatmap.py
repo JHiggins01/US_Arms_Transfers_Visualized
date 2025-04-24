@@ -18,9 +18,6 @@ plt.rcParams['figure.dpi'] = 300
 #reading in trade data
 arms_data = pd.read_csv('trimmed_trade.csv')
 
-#filtering to 1990 and after
-arms_data = arms_data[arms_data['Delivery year'] >= 1990]
-
 #creating more eras
 arms_90_00 = arms_data[arms_data['Delivery year'].between(1990, 2000)]
 arms_00_10 = arms_data[arms_data['Delivery year'].between(2000, 2010)]
@@ -137,7 +134,7 @@ def heat_map (decade_plt, years):
     
     #saving
     fig.tight_layout()
-    fig.savefig(f"us_arms_exports_heatmapt_{years}.png",bbox_inches='tight')
+    fig.savefig(f"us_arms_exports_heatmap_{years}.png",bbox_inches='tight')
 
 #calling function on decades to map
 heat_map(country_totals, "1990-2024")

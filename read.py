@@ -29,6 +29,10 @@ trimmed_trade = trimmed_trade.drop(columns = ['Order date is estimate',
 #renaming columns for ease
 trimmed_trade = trimmed_trade.rename(columns = {'TIV delivery values':'Total TIV'})
 
+#trimming to data from 1990 through present - helps with post Soviet States
+trimmed_trade = trimmed_trade[trimmed_trade['Delivery year'] >= 1990]
+
+
 #saving to a csv
 trimmed_trade.to_csv('trimmed_trade.csv')
 
