@@ -50,49 +50,15 @@ with zipfile.ZipFile(zip_shapefile_path, 'r') as zipf:
 shapefile_name = shp_files[0]
 world = gpd.read_file(f"zip://{zip_shapefile_path}!{shapefile_name}")
 
-# %%
-
-#listing country names not matched by shape file
-missing_values = country_totals[~country_totals['Recipient'].isin(world['NAME'])]
-print(missing_values)
-
-#dictionary to fix mismatched names 
-name_mapping = {
-    "Bosnia-Herzegovina":"Bosnia and Herz.",
-    "Central African Republic":"Central African Rep.",
-    "Cote d'Ivoire":"Côte d'Ivoire",
-    "DR Congo":"Dem. Rep. Congo",
-    "Dominican Republic":"Dominican Rep.",
-    "Equatorial Guinea":"Eq. Guinea",
-    "Saint Vincent":"St. Vin. and Gren.",
-    "Turkiye":"Turkey",
-    "UAE":"United Arab Emirates",
-    "Viet Nam":"Vietnam",}
-
-
-#defining function to create standard column of country names matching shape file
-def std_names (decade_in):
-    decade_in['Recipient_std'] = decade_in['Recipient'].replace(name_mapping)
-    #dropping 2 small deliveries to South Sudan - not included in Shape
-    decade_in = decade_in[~decade_in['Recipient'].str.contains('South Sudan', na=False)]
-    return(decade_in)
-
-#calling function decades to match names to shape file
-country_totals = std_names(country_totals)
-a_90_00 = std_names(a_90_00)
-a_00_10 = std_names(a_00_10)
-a_10_20 = std_names(a_10_20)
-a_20_24 = std_names(a_20_24)
-
 #checking to make sure country data names match shapefile names
-all_present = country_totals['Recipient_std'].isin(world['NAME']).all()
+all_present = country_totals['Recipient'].isin(world['NAME']).all()
 print("All values present?" , all_present)
 
 # %%
 #defining function to merge decades onto shape file and then plot 
 def heat_map (decade_plt, years):
     #merging data
-    merged_data = world.merge(decade_plt, how='left', left_on='NAME', right_on='Recipient_std')
+    merged_data = world.merge(decade_plt, how='left', left_on='NAME', right_on='Recipient')
     #filling nan's with 0 values
     merged_data['Total TIV'] = merged_data['Total TIV'].fillna(0)
     

@@ -32,21 +32,23 @@ trimmed_trade = trimmed_trade.rename(columns = {'TIV delivery values':'Total TIV
 #trimming to data from 1990 through present - helps with post Soviet States
 trimmed_trade = trimmed_trade[trimmed_trade['Delivery year'] >= 1990]
 
+#dictionary for standardizing country names to match shape file
+name_mapping = {
+    "Bosnia-Herzegovina":"Bosnia and Herz.",
+    "Central African Republic":"Central African Rep.",
+    "Cote d'Ivoire":"Côte d'Ivoire",
+    "DR Congo":"Dem. Rep. Congo",
+    "Dominican Republic":"Dominican Rep.",
+    "Equatorial Guinea":"Eq. Guinea",
+    "Saint Vincent":"St. Vin. and Gren.",
+    "Turkiye":"Turkey",
+    "UAE":"United Arab Emirates",
+    "Viet Nam":"Vietnam",}
+
+#renaming and creating standardized name column to use later
+trimmed_trade['Recipient'] = trimmed_trade['Recipient'].replace(name_mapping)
+#dropping 2 small deliveries to South Sudan - not included in Shape
+trimmed_trade = trimmed_trade[~trimmed_trade['Recipient'].str.contains('South Sudan', na=False)]
 
 #saving to a csv
 trimmed_trade.to_csv('trimmed_trade.csv')
-
-# %%
-#grouping by different values
-################################
-#group by country by year
-by_year = trimmed_trade.groupby(['Recipient', 'Delivery year'])['Total TIV'].sum().reset_index()
-#group by country only
-by_country = by_year.groupby(['Recipient'])['Total TIV'].sum().reset_index()
-
-#grouping by weapon category
-#checking types
-types = trimmed_trade['Armament category'].unique().tolist()
-by_cat_tot = trimmed_trade.groupby('Armament category')['Total TIV'].sum().reset_index()
-by_cat_year = trimmed_trade.groupby(['Armament category','Delivery year'])['Total TIV'].sum().reset_index()
-by_cat_country = trimmed_trade.groupby(['Recipient', 'Armament category'])['Total TIV'].sum().reset_index()

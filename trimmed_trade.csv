@@ -721,14 +721,14 @@
 1368,20408,Bolivia,BT-67,transport aircraft,Aircraft,1990,2,1992,4.25,4.25,8.5
 1369,20408,Bolivia,BT-67,transport aircraft,Aircraft,1990,3,1993,4.25,4.25,12.75
 1370,20408,Bolivia,BT-67,transport aircraft,Aircraft,1990,1,1991,4.25,4.25,4.25
-1377,63002,Bosnia-Herzegovina,UH-1H Huey-2,helicopter,Aircraft,2019,4,2021,3.1,3.1,12.4
-1378,63886,Bosnia-Herzegovina,HMMWV-UA,APC,Armoured vehicles,2017,9,2019,0.13,0.05,0.47
-1379,63886,Bosnia-Herzegovina,HMMWV-UA,APC,Armoured vehicles,2017,9,2017,0.13,0.05,0.47
-1380,63886,Bosnia-Herzegovina,HMMWV-UA,APC,Armoured vehicles,2017,6,2020,0.13,0.05,0.31
-1381,24168,Bosnia-Herzegovina,M-60A3,tank,Armoured vehicles,1996,45,1996,2.1,0.84,37.8
-1382,24169,Bosnia-Herzegovina,M-113,APC,Armoured vehicles,1996,80,1996,0.25,0.1,8.0
-1383,24170,Bosnia-Herzegovina,Bell-205A-1,helicopter,Aircraft,1996,15,1999,2.62,1.05,15.72
-1384,24709,Bosnia-Herzegovina,M-114 155mm,towed gun,Artillery,1997,126,1997,0.5,0.2,25.2
+1377,63002,Bosnia and Herz.,UH-1H Huey-2,helicopter,Aircraft,2019,4,2021,3.1,3.1,12.4
+1378,63886,Bosnia and Herz.,HMMWV-UA,APC,Armoured vehicles,2017,9,2019,0.13,0.05,0.47
+1379,63886,Bosnia and Herz.,HMMWV-UA,APC,Armoured vehicles,2017,9,2017,0.13,0.05,0.47
+1380,63886,Bosnia and Herz.,HMMWV-UA,APC,Armoured vehicles,2017,6,2020,0.13,0.05,0.31
+1381,24168,Bosnia and Herz.,M-60A3,tank,Armoured vehicles,1996,45,1996,2.1,0.84,37.8
+1382,24169,Bosnia and Herz.,M-113,APC,Armoured vehicles,1996,80,1996,0.25,0.1,8.0
+1383,24170,Bosnia and Herz.,Bell-205A-1,helicopter,Aircraft,1996,15,1999,2.62,1.05,15.72
+1384,24709,Bosnia and Herz.,M-114 155mm,towed gun,Artillery,1997,126,1997,0.5,0.2,25.2
 1385,67729,Botswana,C-130H Hercules,transport aircraft,Aircraft,2024,1,2024,28.0,11.2,11.2
 1387,25789,Botswana,C-130B Hercules,transport aircraft,Aircraft,1995,2,1997,23.0,9.2,18.4
 1388,51492,Botswana,aircraft engine 1001-2000,aircraft engine,Engines,2008,2,2009,0.5,0.5,1.0
@@ -1075,7 +1075,7 @@
 2214,38484,Canada,LAV-25 turret,infantry fighting vehicle turret,Other,1997,14,2002,0.6,0.6,8.4
 2215,38484,Canada,LAV-25 turret,infantry fighting vehicle turret,Other,1997,20,1998,0.6,0.6,12.0
 2216,38484,Canada,LAV-25 turret,infantry fighting vehicle turret,Other,1997,160,1999,0.6,0.6,96.0
-2217,39046,Central African Republic,C-130B Hercules,transport aircraft,Aircraft,2006,1,2006,23.0,9.2,9.2
+2217,39046,Central African Rep.,C-130B Hercules,transport aircraft,Aircraft,2006,1,2006,23.0,9.2,9.2
 2220,59719,Chad,Cessna-208 Caravan,light transport aircraft,Aircraft,2016,2,2017,1.0,1.0,2.0
 2221,62699,Chad,David,APC,Armoured vehicles,2016,20,2016,0.11,0.11,2.2
 2222,62699,Chad,David,APC,Armoured vehicles,2016,40,2017,0.11,0.11,4.4
@@ -1351,9 +1351,9 @@
 2743,55300,Congo,vehicle engine 201-300,vehicle engine,Engines,2010,32,2010,0.03,0.03,0.96
 2756,61792,Costa Rica,Nemesis,APC,Armoured vehicles,2017,1,2018,0.18,0.18,0.18
 2767,62082,Costa Rica,King Air MP,maritime patrol aircraft,Aircraft,2018,1,2019,7.5,7.5,7.5
-2772,29440,Cote d'Ivoire,Cessna-337,light aircraft,Aircraft,1992,2,1992,0.35,0.14,0.28
-2773,65806,Cote d'Ivoire,BATT,APC,Armoured vehicles,2021,9,2022,0.16,0.16,1.44
-2774,65805,Cote d'Ivoire,Terrier LT-79,APC,Armoured vehicles,2021,2,2022,0.14,0.14,0.28
+2772,29440,Côte d'Ivoire,Cessna-337,light aircraft,Aircraft,1992,2,1992,0.35,0.14,0.28
+2773,65806,Côte d'Ivoire,BATT,APC,Armoured vehicles,2021,9,2022,0.16,0.16,1.44
+2774,65805,Côte d'Ivoire,Terrier LT-79,APC,Armoured vehicles,2021,2,2022,0.14,0.14,0.28
 2775,60138,Croatia,AGM-114 Hellfire-2,anti-tank/air-to-surface missile,Missiles,2016,50,2018,0.05,0.05,2.5
 2776,60138,Croatia,AGM-114 Hellfire-2,anti-tank/air-to-surface missile,Missiles,2016,50,2017,0.05,0.05,2.5
 2777,58165,Croatia,M-ATV,APC,Armoured vehicles,2014,42,2014,0.25,0.1,4.2
@@ -1494,34 +1494,34 @@
 3072,57523,Djibouti,PKSV,APC,Armoured vehicles,2014,15,2014,0.3,0.3,4.5
 3073,59977,Djibouti,Cougar MRAP,APC,Armoured vehicles,2015,7,2016,0.35,0.14,0.98
 3074,32244,Djibouti,Cessna-208 Caravan,light transport aircraft,Aircraft,1991,1,1991,1.0,1.0,1.0
-3075,59494,Dominican Republic,P-2006T,light aircraft,Aircraft,2015,1,2016,0.25,0.25,0.25
-3076,59566,Dominican Republic,Cessna-172,light /trainer aircraft,Aircraft,2014,5,2015,0.1,0.1,0.5
-3087,63906,Dominican Republic,Stan-2606,patrol boat,Ships,2017,1,2020,4.25,4.25,4.25
-3101,24956,Dominican Republic,Balsam,cargo ship,Ships,1995,1,1996,10.0,4.0,4.0
-3102,30526,Dominican Republic,Balsam,cargo ship,Ships,2000,1,2001,10.0,4.0,4.0
-3103,34201,Dominican Republic,Bell-206,light helicopter,Aircraft,2002,9,2003,0.7,0.28,2.52
-3104,34201,Dominican Republic,Bell-206,light helicopter,Aircraft,2002,3,2004,0.7,0.28,0.84
-3105,34199,Dominican Republic,Bell-205A-1,helicopter,Aircraft,1998,6,1998,2.62,1.05,6.29
-3106,36567,Dominican Republic,LCU-1610,landing craft,Ships,2004,1,2004,7.5,3.0,3.0
-3107,53841,Dominican Republic,Swift-35,patrol boat,Ships,2002,1,2003,6.0,6.0,6.0
-3108,53841,Dominican Republic,Swift-35,patrol boat,Ships,2002,1,2004,6.0,6.0,6.0
-3129,34191,Dominican Republic,R-22,light helicopter,Aircraft,2000,3,2001,0.13,0.13,0.39
-3130,34191,Dominican Republic,R-22,light helicopter,Aircraft,2000,1,2002,0.13,0.13,0.13
-3131,34192,Dominican Republic,R-44,light helicopter,Aircraft,2000,1,2001,0.25,0.25,0.25
-3132,34192,Dominican Republic,R-44,light helicopter,Aircraft,2000,1,2002,0.25,0.25,0.25
-3134,34889,Dominican Republic,Schweizer-330,light helicopter,Aircraft,2003,1,2003,0.45,0.45,0.45
-3135,34889,Dominican Republic,Schweizer-330,light helicopter,Aircraft,2003,3,2004,0.45,0.45,1.35
-3136,34188,Dominican Republic,Bell-206,light helicopter,Aircraft,2022,2,2023,0.7,0.28,0.56
-3137,66114,Dominican Republic,UH-1H Huey-2,helicopter,Aircraft,2022,2,2022,3.1,1.24,2.48
-3138,66114,Dominican Republic,UH-1H Huey-2,helicopter,Aircraft,2022,4,2023,3.1,1.24,4.96
-3139,34190,Dominican Republic,UH-1H Huey-2,helicopter,Aircraft,2002,8,2004,3.1,3.1,24.8
-3142,65557,Dominican Republic,Citation-5,light transport aircraft,Aircraft,2021,1,2022,4.35,1.74,1.74
-3143,38022,Dominican Republic,Cessna-208 Caravan,light transport aircraft,Aircraft,2022,1,2022,1.0,1.0,1.0
-3144,38022,Dominican Republic,Cessna-208 Caravan,light transport aircraft,Aircraft,2022,1,2024,1.0,1.0,1.0
-3145,52225,DR Congo,B-727,transport aircraft,Aircraft,2009,2,2009,35.0,14.0,28.0
-3146,68259,DR Congo,vehicle engine 301-400,vehicle engine,Engines,2020,40,2024,0.05,0.05,2.0
-3147,64222,DR Congo,Bell-206,light helicopter,Aircraft,2018,2,2018,0.7,0.28,0.56
-3148,64223,DR Congo,UH-1H Huey-2,helicopter,Aircraft,2018,5,2020,3.1,1.24,6.2
+3075,59494,Dominican Rep.,P-2006T,light aircraft,Aircraft,2015,1,2016,0.25,0.25,0.25
+3076,59566,Dominican Rep.,Cessna-172,light /trainer aircraft,Aircraft,2014,5,2015,0.1,0.1,0.5
+3087,63906,Dominican Rep.,Stan-2606,patrol boat,Ships,2017,1,2020,4.25,4.25,4.25
+3101,24956,Dominican Rep.,Balsam,cargo ship,Ships,1995,1,1996,10.0,4.0,4.0
+3102,30526,Dominican Rep.,Balsam,cargo ship,Ships,2000,1,2001,10.0,4.0,4.0
+3103,34201,Dominican Rep.,Bell-206,light helicopter,Aircraft,2002,9,2003,0.7,0.28,2.52
+3104,34201,Dominican Rep.,Bell-206,light helicopter,Aircraft,2002,3,2004,0.7,0.28,0.84
+3105,34199,Dominican Rep.,Bell-205A-1,helicopter,Aircraft,1998,6,1998,2.62,1.05,6.29
+3106,36567,Dominican Rep.,LCU-1610,landing craft,Ships,2004,1,2004,7.5,3.0,3.0
+3107,53841,Dominican Rep.,Swift-35,patrol boat,Ships,2002,1,2003,6.0,6.0,6.0
+3108,53841,Dominican Rep.,Swift-35,patrol boat,Ships,2002,1,2004,6.0,6.0,6.0
+3129,34191,Dominican Rep.,R-22,light helicopter,Aircraft,2000,3,2001,0.13,0.13,0.39
+3130,34191,Dominican Rep.,R-22,light helicopter,Aircraft,2000,1,2002,0.13,0.13,0.13
+3131,34192,Dominican Rep.,R-44,light helicopter,Aircraft,2000,1,2001,0.25,0.25,0.25
+3132,34192,Dominican Rep.,R-44,light helicopter,Aircraft,2000,1,2002,0.25,0.25,0.25
+3134,34889,Dominican Rep.,Schweizer-330,light helicopter,Aircraft,2003,1,2003,0.45,0.45,0.45
+3135,34889,Dominican Rep.,Schweizer-330,light helicopter,Aircraft,2003,3,2004,0.45,0.45,1.35
+3136,34188,Dominican Rep.,Bell-206,light helicopter,Aircraft,2022,2,2023,0.7,0.28,0.56
+3137,66114,Dominican Rep.,UH-1H Huey-2,helicopter,Aircraft,2022,2,2022,3.1,1.24,2.48
+3138,66114,Dominican Rep.,UH-1H Huey-2,helicopter,Aircraft,2022,4,2023,3.1,1.24,4.96
+3139,34190,Dominican Rep.,UH-1H Huey-2,helicopter,Aircraft,2002,8,2004,3.1,3.1,24.8
+3142,65557,Dominican Rep.,Citation-5,light transport aircraft,Aircraft,2021,1,2022,4.35,1.74,1.74
+3143,38022,Dominican Rep.,Cessna-208 Caravan,light transport aircraft,Aircraft,2022,1,2022,1.0,1.0,1.0
+3144,38022,Dominican Rep.,Cessna-208 Caravan,light transport aircraft,Aircraft,2022,1,2024,1.0,1.0,1.0
+3145,52225,Dem. Rep. Congo,B-727,transport aircraft,Aircraft,2009,2,2009,35.0,14.0,28.0
+3146,68259,Dem. Rep. Congo,vehicle engine 301-400,vehicle engine,Engines,2020,40,2024,0.05,0.05,2.0
+3147,64222,Dem. Rep. Congo,Bell-206,light helicopter,Aircraft,2018,2,2018,0.7,0.28,0.56
+3148,64223,Dem. Rep. Congo,UH-1H Huey-2,helicopter,Aircraft,2018,5,2020,3.1,1.24,6.2
 3175,67560,Ecuador,C-130H Hercules,transport aircraft,Aircraft,2023,1,2024,28.0,11.2,11.2
 3178,27969,Ecuador,TPS-70,air-search radar,Sensors,1994,2,1995,11.0,11.0,22.0
 3181,55174,Ecuador,Bell-430,light helicopter,Aircraft,2012,2,2014,3.2,1.28,2.56
@@ -1889,9 +1889,9 @@
 3794,64950,El Salvador,Model-300,light helicopter,Aircraft,2021,1,2022,0.2,0.2,0.2
 3795,36078,El Salvador,UH-1H Huey-2,helicopter,Aircraft,2018,1,2022,3.1,3.1,3.1
 3796,65065,El Salvador,Baron,light aircraft,Aircraft,2017,1,2017,0.7,0.7,0.7
-3797,58443,Equatorial Guinea,ship engine 6001-8000,ship engine,Engines,2012,4,2014,2.5,2.5,10.0
-3798,40288,Equatorial Guinea,Enstrom-480,light helicopter,Aircraft,2007,2,2007,0.4,0.4,0.8
-3799,55395,Equatorial Guinea,ship engine 1001-2500,ship engine,Engines,2008,2,2009,0.25,0.25,0.5
+3797,58443,Eq. Guinea,ship engine 6001-8000,ship engine,Engines,2012,4,2014,2.5,2.5,10.0
+3798,40288,Eq. Guinea,Enstrom-480,light helicopter,Aircraft,2007,2,2007,0.4,0.4,0.8
+3799,55395,Eq. Guinea,ship engine 1001-2500,ship engine,Engines,2008,2,2009,0.25,0.25,0.5
 3800,25671,Estonia,Balsam,cargo ship,Ships,1997,1,1997,10.0,4.0,4.0
 3801,63453,Estonia,FGM-148 Javelin,anti-tank missile,Missiles,2019,128,2020,0.03,0.03,3.84
 3802,64895,Estonia,M-ATV,APC,Armoured vehicles,2019,9,2021,0.25,0.25,2.25
@@ -6771,8 +6771,6 @@
 14372,62335,South Korea,F-135-100 (19500),turbofan,Engines,2014,1,2019,4.0,4.0,4.0
 14373,62335,South Korea,F-135-100 (19500),turbofan,Engines,2014,1,2022,4.0,4.0,4.0
 14374,62335,South Korea,F-135-100 (19500),turbofan,Engines,2014,1,2021,4.0,4.0,4.0
-14375,60192,South Sudan,vehicle engine 301-400,vehicle engine,Engines,2012,5,2012,0.05,0.05,0.25
-14376,60192,South Sudan,vehicle engine 301-400,vehicle engine,Engines,2012,20,2013,0.05,0.05,1.0
 14593,37276,Spain,LM-2500 (30001-35000),gas turbine,Engines,1996,2,2002,7.0,7.0,14.0
 14594,37276,Spain,LM-2500 (30001-35000),gas turbine,Engines,1996,2,2003,7.0,7.0,14.0
 14595,37276,Spain,LM-2500 (30001-35000),gas turbine,Engines,1996,2,2004,7.0,7.0,14.0
@@ -7583,599 +7581,599 @@
 16740,63025,Tunisia,PC-9 -,(armed) trainer aircraft,Aircraft,2021,6,2023,1.9,1.9,11.4
 16741,63025,Tunisia,PC-9 -,(armed) trainer aircraft,Aircraft,2021,2,2022,1.9,1.9,3.8
 16742,64215,Tunisia,vehicle engine 301-400,vehicle engine,Engines,2020,46,2022,0.05,0.05,2.3
-16743,67889,Turkiye,LM-2500 (30001-35000),gas turbine,Engines,2018,2,2024,7.0,7.0,14.0
-16765,64821,Turkiye,vehicle engine 301-400,vehicle engine,Engines,2016,34,2022,0.05,0.05,1.7
-16766,64821,Turkiye,vehicle engine 301-400,vehicle engine,Engines,2016,50,2020,0.05,0.05,2.5
-16767,64821,Turkiye,vehicle engine 301-400,vehicle engine,Engines,2016,100,2021,0.05,0.05,5.0
-16768,36007,Turkiye,MK-41 SAMS,naval SAM system,Naval weapons,2005,2,2013,20.0,20.0,40.0
-16769,36007,Turkiye,MK-41 SAMS,naval SAM system,Naval weapons,2005,2,2014,20.0,20.0,40.0
-16770,57510,Turkiye,Mk-29 SAMS,naval SAM system,Naval weapons,1990,1,1996,5.0,5.0,5.0
-16771,57510,Turkiye,Mk-29 SAMS,naval SAM system,Naval weapons,1990,1,1995,5.0,5.0,5.0
-16772,57511,Turkiye,MK-41 SAMS,naval SAM system,Naval weapons,1994,1,2000,20.0,20.0,20.0
-16773,57511,Turkiye,MK-41 SAMS,naval SAM system,Naval weapons,1994,1,1998,20.0,20.0,20.0
-16777,37519,Turkiye,AAQ-13 LANTIRN,combat aircraft radar,Sensors,1990,13,1994,1.0,1.0,13.0
-16778,37519,Turkiye,AAQ-13 LANTIRN,combat aircraft radar,Sensors,1990,14,1995,1.0,1.0,14.0
-16779,37519,Turkiye,AAQ-13 LANTIRN,combat aircraft radar,Sensors,1990,13,1996,1.0,1.0,13.0
-16780,37518,Turkiye,AAQ-14 LANTIRN,aircraft electro-optical system,Sensors,1990,7,1995,1.0,1.0,7.0
-16781,37518,Turkiye,AAQ-14 LANTIRN,aircraft electro-optical system,Sensors,1990,6,1994,1.0,1.0,6.0
-16782,37518,Turkiye,AAQ-14 LANTIRN,aircraft electro-optical system,Sensors,1990,7,1996,1.0,1.0,7.0
-16783,4247,Turkiye,AH-1S Cobra,combat helicopter,Aircraft,1992,8,1993,4.28,1.71,13.7
-16784,4247,Turkiye,AH-1S Cobra,combat helicopter,Aircraft,1992,6,1992,4.28,1.71,10.27
-16786,55098,Turkiye,King Air,light transport aircraft,Aircraft,2012,5,2012,2.85,1.88,9.41
-16800,37900,Turkiye,vehicle engine 201-300,vehicle engine,Engines,1990,125,2004,0.03,0.03,3.75
-16801,37900,Turkiye,vehicle engine 201-300,vehicle engine,Engines,1990,125,2003,0.03,0.03,3.75
-16802,37900,Turkiye,vehicle engine 201-300,vehicle engine,Engines,1990,125,2002,0.03,0.03,3.75
-16803,37900,Turkiye,vehicle engine 201-300,vehicle engine,Engines,1990,125,2001,0.03,0.03,3.75
-16804,37900,Turkiye,vehicle engine 201-300,vehicle engine,Engines,1990,100,2000,0.03,0.03,3.0
-16805,37900,Turkiye,vehicle engine 201-300,vehicle engine,Engines,1990,100,1999,0.03,0.03,3.0
-16806,37900,Turkiye,vehicle engine 201-300,vehicle engine,Engines,1990,100,1998,0.03,0.03,3.0
-16807,37900,Turkiye,vehicle engine 201-300,vehicle engine,Engines,1990,100,1997,0.03,0.03,3.0
-16808,37900,Turkiye,vehicle engine 201-300,vehicle engine,Engines,1990,100,1996,0.03,0.03,3.0
-16809,37900,Turkiye,vehicle engine 201-300,vehicle engine,Engines,1990,100,1995,0.03,0.03,3.0
-16810,37900,Turkiye,vehicle engine 201-300,vehicle engine,Engines,1990,100,1994,0.03,0.03,3.0
-16811,37900,Turkiye,vehicle engine 201-300,vehicle engine,Engines,1990,100,1993,0.03,0.03,3.0
-16812,37900,Turkiye,vehicle engine 201-300,vehicle engine,Engines,1990,100,1992,0.03,0.03,3.0
-16813,37900,Turkiye,vehicle engine 201-300,vehicle engine,Engines,1990,100,1991,0.03,0.03,3.0
-16814,37900,Turkiye,vehicle engine 201-300,vehicle engine,Engines,1990,125,2005,0.03,0.03,3.75
-16815,37900,Turkiye,vehicle engine 201-300,vehicle engine,Engines,1990,125,2006,0.03,0.03,3.75
-16816,37900,Turkiye,vehicle engine 201-300,vehicle engine,Engines,1990,125,2007,0.03,0.03,3.75
-16817,37900,Turkiye,vehicle engine 201-300,vehicle engine,Engines,1990,125,2008,0.03,0.03,3.75
-16821,61640,Turkiye,vehicle engine 301-400,vehicle engine,Engines,2016,50,2016,0.05,0.05,2.5
-16825,29166,Turkiye,SH-60B Seahawk,anti-submarine helicopter,Aircraft,2006,7,2013,17.0,17.0,119.0
-16826,29166,Turkiye,SH-60B Seahawk,anti-submarine helicopter,Aircraft,2006,5,2014,17.0,17.0,85.0
-16827,29166,Turkiye,SH-60B Seahawk,anti-submarine helicopter,Aircraft,2006,5,2012,17.0,17.0,85.0
-16828,58180,Turkiye,AIM-9X,long-range air-to-air missile,Missiles,2014,60,2016,0.18,0.18,10.8
-16829,58180,Turkiye,AIM-9X,long-range air-to-air missile,Missiles,2014,57,2015,0.18,0.18,10.26
-16830,58224,Turkiye,CH-47F,transport helicopter,Aircraft,2015,1,2018,20.0,20.0,20.0
-16831,58224,Turkiye,CH-47F,transport helicopter,Aircraft,2015,3,2019,20.0,20.0,60.0
-16832,27741,Turkiye,Mk-46-5,anti-submarine torpedo,Missiles,1990,50,1991,0.35,0.35,17.5
-16833,27741,Turkiye,Mk-46-5,anti-submarine torpedo,Missiles,1990,50,1992,0.35,0.35,17.5
-16834,27741,Turkiye,Mk-46-5,anti-submarine torpedo,Missiles,1990,50,1993,0.35,0.35,17.5
-16835,27741,Turkiye,Mk-46-5,anti-submarine torpedo,Missiles,1990,50,1994,0.35,0.35,17.5
-16836,27741,Turkiye,Mk-46-5,anti-submarine torpedo,Missiles,1990,50,1995,0.35,0.35,17.5
-16837,27741,Turkiye,Mk-46-5,anti-submarine torpedo,Missiles,1990,50,1996,0.35,0.35,17.5
-16838,27741,Turkiye,Mk-46-5,anti-submarine torpedo,Missiles,1990,50,1997,0.35,0.35,17.5
-16839,27741,Turkiye,Mk-46-5,anti-submarine torpedo,Missiles,1990,50,1998,0.35,0.35,17.5
-16840,27741,Turkiye,Mk-46-5,anti-submarine torpedo,Missiles,1990,50,1999,0.35,0.35,17.5
-16841,27741,Turkiye,Mk-46-5,anti-submarine torpedo,Missiles,1990,50,2000,0.35,0.35,17.5
-16842,27741,Turkiye,Mk-46-5,anti-submarine torpedo,Missiles,1990,50,2001,0.35,0.35,17.5
-16843,27741,Turkiye,Mk-46-5,anti-submarine torpedo,Missiles,1990,50,2002,0.35,0.35,17.5
-16844,27741,Turkiye,Mk-46-5,anti-submarine torpedo,Missiles,1990,50,2003,0.35,0.35,17.5
-16845,27741,Turkiye,Mk-46-5,anti-submarine torpedo,Missiles,1990,50,2004,0.35,0.35,17.5
-16846,27741,Turkiye,Mk-46-5,anti-submarine torpedo,Missiles,1990,50,2005,0.35,0.35,17.5
-16847,52163,Turkiye,Gnat-750,UAV,Aircraft,1995,8,1995,0.2,0.2,1.6
-16848,52163,Turkiye,Gnat-750,UAV,Aircraft,1995,8,1996,0.2,0.2,1.6
-16849,20028,Turkiye,AH-1S Cobra,combat helicopter,Aircraft,1993,4,1995,4.28,1.71,6.85
-16850,20028,Turkiye,AH-1S Cobra,combat helicopter,Aircraft,1993,12,1994,4.28,1.71,20.54
-16851,50024,Turkiye,ESSM,SAM,Missiles,2009,16,2011,0.4,0.4,6.4
-16852,50024,Turkiye,ESSM,SAM,Missiles,2009,32,2012,0.4,0.4,12.8
-16853,50024,Turkiye,ESSM,SAM,Missiles,2009,76,2013,0.4,0.4,30.4
-16854,50024,Turkiye,ESSM,SAM,Missiles,2009,76,2014,0.4,0.4,30.4
-16855,50024,Turkiye,ESSM,SAM,Missiles,2009,25,2015,0.4,0.4,10.0
-16856,50024,Turkiye,ESSM,SAM,Missiles,2009,25,2016,0.4,0.4,10.0
-16857,50024,Turkiye,ESSM,SAM,Missiles,2009,25,2017,0.4,0.4,10.0
-16858,58676,Turkiye,Phalanx,naval gun,Naval weapons,2015,2,2023,7.0,7.0,14.0
-16859,53514,Turkiye,Phalanx,naval gun,Naval weapons,2011,2,2017,7.0,7.0,14.0
-16860,53514,Turkiye,Phalanx,naval gun,Naval weapons,2011,2,2018,7.0,7.0,14.0
-16865,21148,Turkiye,Knox,frigate,Ships,1993,4,1993,275.0,110.0,440.0
-16866,21753,Turkiye,Knox,frigate,Ships,1993,4,1994,275.0,110.0,440.0
-16868,23077,Turkiye,KC-135,tanker/transport aircraft,Aircraft,1995,2,1995,60.0,24.0,48.0
-16877,21625,Turkiye,AH-1W,combat helicopter,Aircraft,1992,3,1993,11.5,11.5,34.5
-16878,21625,Turkiye,AH-1W,combat helicopter,Aircraft,1992,2,1994,11.5,11.5,23.0
-16879,20065,Turkiye,AH-1W,combat helicopter,Aircraft,1990,2,1990,11.5,11.5,23.0
-16880,20065,Turkiye,AH-1W,combat helicopter,Aircraft,1990,3,1991,11.5,11.5,34.5
-16881,50766,Turkiye,aircraft engine 1001-2000,aircraft engine,Engines,2008,18,2016,0.5,0.5,9.0
-16882,50766,Turkiye,aircraft engine 1001-2000,aircraft engine,Engines,2008,18,2017,0.5,0.5,9.0
-16883,50766,Turkiye,aircraft engine 1001-2000,aircraft engine,Engines,2008,20,2018,0.5,0.5,10.0
-16884,50766,Turkiye,aircraft engine 1001-2000,aircraft engine,Engines,2008,26,2019,0.5,0.5,13.0
-16885,50766,Turkiye,aircraft engine 1001-2000,aircraft engine,Engines,2008,2,2020,0.5,0.5,1.0
-16886,50766,Turkiye,aircraft engine 1001-2000,aircraft engine,Engines,2008,10,2021,0.5,0.5,5.0
-16887,50766,Turkiye,aircraft engine 1001-2000,aircraft engine,Engines,2008,2,2022,0.5,0.5,1.0
-16888,50766,Turkiye,aircraft engine 1001-2000,aircraft engine,Engines,2008,2,2023,0.5,0.5,1.0
-16889,20063,Turkiye,S-70A Black Hawk,transport helicopter,Aircraft,1990,6,1990,6.5,6.5,39.0
-16890,20715,Turkiye,S-70A Black Hawk,transport helicopter,Aircraft,1992,40,1993,6.5,6.5,260.0
-16891,20715,Turkiye,S-70A Black Hawk,transport helicopter,Aircraft,1992,5,1994,6.5,6.5,32.5
-16892,20972,Turkiye,Commando V-150,APC,Armoured vehicles,1992,25,1992,0.2,0.2,5.0
-16893,20972,Turkiye,Commando V-150,APC,Armoured vehicles,1992,25,1993,0.2,0.2,5.0
-16894,20972,Turkiye,Commando V-150,APC,Armoured vehicles,1992,74,1994,0.2,0.2,14.8
-16896,29408,Turkiye,Dragoon,APC,Armoured vehicles,1998,30,2003,0.3,0.3,9.0
-16897,29408,Turkiye,Dragoon,APC,Armoured vehicles,1998,25,2002,0.3,0.3,7.5
-16898,29408,Turkiye,Dragoon,APC,Armoured vehicles,1998,25,2004,0.3,0.3,7.5
-16901,16762,Turkiye,HR-3000 HADR,air-search radar,Sensors,1985,1,1990,11.0,11.0,11.0
-16906,29421,Turkiye,King Air,light transport aircraft,Aircraft,1990,5,1991,2.85,2.85,14.25
-16907,33238,Turkiye,CH-47F,transport helicopter,Aircraft,2011,6,2016,20.0,20.0,120.0
-16908,38509,Turkiye,LM-2500 (30001-35000),gas turbine,Engines,2007,1,2013,7.0,7.0,7.0
-16909,38509,Turkiye,LM-2500 (30001-35000),gas turbine,Engines,2007,1,2011,7.0,7.0,7.0
-16910,58765,Turkiye,LM-2500 (30001-35000),gas turbine,Engines,2015,1,2019,7.0,7.0,7.0
-16911,58765,Turkiye,LM-2500 (30001-35000),gas turbine,Engines,2015,1,2018,7.0,7.0,7.0
-16912,35493,Turkiye,APG-68,combat aircraft radar,Sensors,2005,45,2012,2.0,2.0,90.0
-16913,35493,Turkiye,APG-68,combat aircraft radar,Sensors,2005,4,2011,2.0,2.0,8.0
-16914,35493,Turkiye,APG-68,combat aircraft radar,Sensors,2005,50,2013,2.0,2.0,100.0
-16915,35493,Turkiye,APG-68,combat aircraft radar,Sensors,2005,48,2014,2.0,2.0,96.0
-16916,35493,Turkiye,APG-68,combat aircraft radar,Sensors,2005,6,2009,2.0,2.0,12.0
-16917,35493,Turkiye,APG-68,combat aircraft radar,Sensors,2005,10,2015,2.0,2.0,20.0
-16918,58822,Turkiye,JDAM,guided bomb,Missiles,2012,300,2013,0.02,0.02,6.0
-16919,62425,Turkiye,JDAM,guided bomb,Missiles,2017,100,2018,0.02,0.02,2.0
-16925,61861,Turkiye,aircraft engine 1001-2000,aircraft engine,Engines,2017,10,2018,0.5,0.5,5.0
-16926,61861,Turkiye,aircraft engine 1001-2000,aircraft engine,Engines,2017,2,2019,0.5,0.5,1.0
-16927,61861,Turkiye,aircraft engine 1001-2000,aircraft engine,Engines,2017,14,2021,0.5,0.5,7.0
-16928,61861,Turkiye,aircraft engine 1001-2000,aircraft engine,Engines,2017,4,2022,0.5,0.5,2.0
-16932,62538,Turkiye,FGM-148 Javelin,anti-tank missile,Missiles,2017,160,2017,0.03,0.03,4.8
-16935,35442,Turkiye,AGM-84H SLAM-ER,air-to-surface missile,Missiles,2006,50,2011,1.25,1.25,62.5
-16936,18494,Turkiye,AIFV --,infantry fighting vehicle,Armoured vehicles,1988,20,1990,0.3,0.3,6.0
-16937,18494,Turkiye,AIFV --,infantry fighting vehicle,Armoured vehicles,1988,45,1991,0.3,0.3,13.5
-16938,18494,Turkiye,AIFV --,infantry fighting vehicle,Armoured vehicles,1988,94,1992,0.3,0.3,28.2
-16939,18494,Turkiye,AIFV --,infantry fighting vehicle,Armoured vehicles,1988,165,1993,0.3,0.3,49.5
-16940,18494,Turkiye,AIFV --,infantry fighting vehicle,Armoured vehicles,1988,175,1994,0.3,0.3,52.5
-16941,18494,Turkiye,AIFV --,infantry fighting vehicle,Armoured vehicles,1988,341,1995,0.3,0.3,102.3
-16942,18494,Turkiye,AIFV --,infantry fighting vehicle,Armoured vehicles,1988,268,1997,0.3,0.3,80.4
-16943,18494,Turkiye,AIFV --,infantry fighting vehicle,Armoured vehicles,1988,196,1998,0.3,0.3,58.8
-16944,18494,Turkiye,AIFV --,infantry fighting vehicle,Armoured vehicles,1988,200,1999,0.3,0.3,60.0
-16945,18494,Turkiye,AIFV --,infantry fighting vehicle,Armoured vehicles,1988,194,2000,0.3,0.3,58.2
-16946,21382,Turkiye,Cessna-337,light aircraft,Aircraft,1992,6,1993,0.35,0.14,0.84
-16953,39627,Turkiye,Mk-54 LWT,anti-submarine torpedo,Missiles,2009,25,2012,0.5,0.5,12.5
-16954,39627,Turkiye,Mk-54 LWT,anti-submarine torpedo,Missiles,2009,50,2013,0.5,0.5,25.0
-16955,39627,Turkiye,Mk-54 LWT,anti-submarine torpedo,Missiles,2009,25,2014,0.5,0.5,12.5
-16956,59683,Turkiye,Phalanx,naval gun,Naval weapons,2015,2,2018,7.0,7.0,14.0
-16957,59683,Turkiye,Phalanx,naval gun,Naval weapons,2015,2,2017,7.0,7.0,14.0
-16959,18253,Turkiye,AIM-7F Sparrow,long-range air-to-air missile,Missiles,1987,20,1990,0.16,0.16,3.2
-16960,18253,Turkiye,AIM-7F Sparrow,long-range air-to-air missile,Missiles,1987,60,1991,0.16,0.16,9.6
-16961,60937,Turkiye,RIM-116A RAM,SAM,Missiles,2016,150,2023,0.14,0.14,21.0
-16962,61022,Turkiye,AGM-84H SLAM-ER,air-to-surface missile,Missiles,2016,2,2016,1.25,1.25,2.5
-16963,61022,Turkiye,AGM-84H SLAM-ER,air-to-surface missile,Missiles,2016,46,2017,1.25,1.25,57.5
-16966,18420,Turkiye,F-16C,FGA aircraft,Aircraft,1984,28,1992,28.5,28.5,798.0
-16967,18420,Turkiye,F-16C,FGA aircraft,Aircraft,1984,16,1993,28.5,28.5,456.0
-16969,18420,Turkiye,F-16C,FGA aircraft,Aircraft,1984,24,1990,28.5,28.5,684.0
-16970,18420,Turkiye,F-16C,FGA aircraft,Aircraft,1984,25,1991,28.5,28.5,712.5
-16971,18420,Turkiye,F-16C,FGA aircraft,Aircraft,1984,20,1994,28.5,28.5,570.0
-16972,18420,Turkiye,F-16C,FGA aircraft,Aircraft,1984,10,1995,28.5,28.5,285.0
-16973,20327,Turkiye,F-16C Block-50,FGA aircraft,Aircraft,1992,26,1997,31.0,31.0,806.0
-16974,20327,Turkiye,F-16C Block-50,FGA aircraft,Aircraft,1992,4,1998,31.0,31.0,124.0
-16975,20327,Turkiye,F-16C Block-50,FGA aircraft,Aircraft,1992,10,1996,31.0,31.0,310.0
-16978,21752,Turkiye,F-16C Block-50,FGA aircraft,Aircraft,1994,20,1998,31.0,31.0,620.0
-16979,21752,Turkiye,F-16C Block-50,FGA aircraft,Aircraft,1994,20,1999,31.0,31.0,620.0
-16980,26087,Turkiye,Stinger,portable SAM,Missiles,1986,334,2004,0.08,0.08,26.72
-16981,26087,Turkiye,Stinger,portable SAM,Missiles,1986,116,1993,0.08,0.08,9.28
-16982,26087,Turkiye,Stinger,portable SAM,Missiles,1986,500,1994,0.08,0.08,40.0
-16983,26087,Turkiye,Stinger,portable SAM,Missiles,1986,700,1995,0.08,0.08,56.0
-16984,26087,Turkiye,Stinger,portable SAM,Missiles,1986,700,1996,0.08,0.08,56.0
-16985,26087,Turkiye,Stinger,portable SAM,Missiles,1986,700,1997,0.08,0.08,56.0
-16986,26087,Turkiye,Stinger,portable SAM,Missiles,1986,600,1998,0.08,0.08,48.0
-16987,26087,Turkiye,Stinger,portable SAM,Missiles,1986,300,1999,0.08,0.08,24.0
-16988,26087,Turkiye,Stinger,portable SAM,Missiles,1986,250,2000,0.08,0.08,20.0
-16989,26087,Turkiye,Stinger,portable SAM,Missiles,1986,200,2001,0.08,0.08,16.0
-16990,26087,Turkiye,Stinger,portable SAM,Missiles,1986,200,2002,0.08,0.08,16.0
-16991,26087,Turkiye,Stinger,portable SAM,Missiles,1986,200,2003,0.08,0.08,16.0
-16992,28132,Turkiye,F-16C Block-50,FGA aircraft,Aircraft,2007,6,2011,31.0,31.0,186.0
-16993,28132,Turkiye,F-16C Block-50,FGA aircraft,Aircraft,2007,24,2012,31.0,31.0,744.0
-16998,52739,Turkiye,aircraft engine 1001-2000,aircraft engine,Engines,2010,18,2014,0.5,0.5,9.0
-16999,64076,Turkiye,JDAM,guided bomb,Missiles,2018,300,2019,0.02,0.02,6.0
-17000,64076,Turkiye,JDAM,guided bomb,Missiles,2018,300,2020,0.02,0.02,6.0
-17001,64076,Turkiye,JDAM,guided bomb,Missiles,2018,58,2021,0.02,0.02,1.16
-17020,20329,Turkiye,C-130B Hercules,transport aircraft,Aircraft,1991,3,1991,23.0,9.2,27.6
-17021,20329,Turkiye,C-130B Hercules,transport aircraft,Aircraft,1991,2,1992,23.0,9.2,18.4
-17022,20328,Turkiye,F-4E Phantom-2,FGA aircraft,Aircraft,1991,5,1991,25.0,10.0,50.0
-17023,20328,Turkiye,F-4E Phantom-2,FGA aircraft,Aircraft,1991,29,1992,25.0,10.0,290.0
-17024,20328,Turkiye,F-4E Phantom-2,FGA aircraft,Aircraft,1991,6,1993,25.0,10.0,60.0
-17027,21901,Turkiye,KC-135,tanker/transport aircraft,Aircraft,1994,3,1997,60.0,39.6,118.8
-17028,21901,Turkiye,KC-135,tanker/transport aircraft,Aircraft,1994,4,1998,60.0,39.6,158.4
-17029,22852,Turkiye,Perry,frigate,Ships,1995,3,1998,300.0,120.0,360.0
-17030,24062,Turkiye,Blindfire,fire-control radar,Sensors,1995,13,1996,2.5,1.0,13.0
-17031,24063,Turkiye,Rapier-1,SAM,Missiles,1995,515,1996,0.1,0.1,51.5
-17032,24064,Turkiye,Rapier SAMS,SAM system,Air-defence systems,1995,14,1996,7.0,2.8,39.2
-17033,25576,Turkiye,SM-1MR,SAM,Missiles,1996,30,1998,0.25,0.1,3.0
-17034,25576,Turkiye,SM-1MR,SAM,Missiles,1996,55,1999,0.25,0.1,5.5
-17035,25576,Turkiye,SM-1MR,SAM,Missiles,1996,8,2000,0.25,0.1,0.8
-17036,25576,Turkiye,SM-1MR,SAM,Missiles,1996,57,2002,0.25,0.1,5.7
-17037,25576,Turkiye,SM-1MR,SAM,Missiles,1996,125,2001,0.25,0.1,12.5
-17038,25576,Turkiye,SM-1MR,SAM,Missiles,1996,125,2003,0.25,0.1,12.5
-17039,27596,Turkiye,AIM-7E,long-range air-to-air missile,Missiles,1995,122,1995,0.15,0.15,18.3
-17040,27596,Turkiye,AIM-7E,long-range air-to-air missile,Missiles,1995,4,1996,0.15,0.15,0.6
-17044,31090,Turkiye,MIM-23B,SAM,Missiles,2002,175,2005,0.17,0.07,11.9
-17048,35759,Turkiye,M-578,armoured recovery vehicle,Armoured vehicles,1998,25,1999,0.36,0.14,3.6
-17049,39916,Turkiye,JDAM,guided bomb,Missiles,2005,149,2008,0.02,0.02,2.98
-17050,39916,Turkiye,JDAM,guided bomb,Missiles,2005,149,2009,0.02,0.02,2.98
-17051,39916,Turkiye,JDAM,guided bomb,Missiles,2005,100,2007,0.02,0.02,2.0
-17052,50560,Turkiye,AAQ-33 Sniper ATP,aircraft electro-optical system,Sensors,2009,12,2011,1.0,1.0,12.0
-17053,50560,Turkiye,AAQ-33 Sniper ATP,aircraft electro-optical system,Sensors,2009,18,2012,1.0,1.0,18.0
-17054,50561,Turkiye,AAQ-13 LANTIRN,combat aircraft radar,Sensors,2009,12,2011,1.0,1.0,12.0
-17055,50561,Turkiye,AAQ-13 LANTIRN,combat aircraft radar,Sensors,2009,18,2012,1.0,1.0,18.0
-17056,51245,Turkiye,Harpoon Block-2,anti-ship/land-attack missile,Missiles,2008,25,2011,1.0,1.0,25.0
-17057,51297,Turkiye,Cessna-180 Skywagon,light aircraft,Aircraft,2009,31,2009,0.18,0.18,5.58
-17058,51297,Turkiye,Cessna-180 Skywagon,light aircraft,Aircraft,2009,15,2010,0.18,0.18,2.7
-17059,63719,Turkiye,vehicle engine 301-400,vehicle engine,Engines,2018,47,2019,0.05,0.05,2.35
-17060,63719,Turkiye,vehicle engine 301-400,vehicle engine,Engines,2018,10,2020,0.05,0.05,0.5
-17061,51563,Turkiye,CBU-97,guided bomb,Missiles,2006,50,2007,0.15,0.15,7.5
-17062,51563,Turkiye,CBU-97,guided bomb,Missiles,2006,50,2008,0.15,0.15,7.5
-17063,54284,Turkiye,Stinger,portable SAM,Missiles,2011,90,2013,0.08,0.08,7.2
-17064,4487,Turkiye,Bell-205A-1,helicopter,Aircraft,1988,5,1991,2.62,2.62,13.1
-17065,4487,Turkiye,Bell-205A-1,helicopter,Aircraft,1988,5,1992,2.62,2.62,13.1
-17066,4487,Turkiye,Bell-205A-1,helicopter,Aircraft,1988,5,1993,2.62,2.62,13.1
-17067,18998,Turkiye,Bell-205A-1,helicopter,Aircraft,1985,5,1990,2.62,2.62,13.1
-17070,57677,Turkiye,AIM-120C AMRAAM,long-range air-to-air missile,Missiles,2014,36,2016,0.6,0.6,21.6
-17071,57677,Turkiye,AIM-120C AMRAAM,long-range air-to-air missile,Missiles,2014,36,2017,0.6,0.6,21.6
-17072,57677,Turkiye,AIM-120C AMRAAM,long-range air-to-air missile,Missiles,2014,36,2018,0.6,0.6,21.6
-17073,57677,Turkiye,AIM-120C AMRAAM,long-range air-to-air missile,Missiles,2014,37,2019,0.6,0.6,22.2
-17075,25988,Turkiye,SH-60B Seahawk,anti-submarine helicopter,Aircraft,1998,8,2002,17.0,17.0,136.0
-17076,28133,Turkiye,Perry,frigate,Ships,1998,1,1999,300.0,120.0,120.0
-17077,28133,Turkiye,Perry,frigate,Ships,1998,1,2000,300.0,120.0,120.0
-17078,50558,Turkiye,AIM-120C AMRAAM,long-range air-to-air missile,Missiles,2008,25,2013,0.6,0.6,15.0
-17079,50558,Turkiye,AIM-120C AMRAAM,long-range air-to-air missile,Missiles,2008,82,2014,0.6,0.6,49.2
-17080,52188,Turkiye,AH-1W,combat helicopter,Aircraft,2011,3,2012,11.5,4.6,13.8
-17081,53508,Turkiye,vehicle engine 301-400,vehicle engine,Engines,2009,100,2014,0.05,0.05,5.0
-17082,53508,Turkiye,vehicle engine 301-400,vehicle engine,Engines,2009,50,2012,0.05,0.05,2.5
-17083,53508,Turkiye,vehicle engine 301-400,vehicle engine,Engines,2009,128,2011,0.05,0.05,6.4
-17084,53508,Turkiye,vehicle engine 301-400,vehicle engine,Engines,2009,100,2010,0.05,0.05,5.0
-17085,53508,Turkiye,vehicle engine 301-400,vehicle engine,Engines,2009,90,2015,0.05,0.05,4.5
-17086,59326,Turkiye,JDAM,guided bomb,Missiles,2015,650,2017,0.02,0.02,13.0
-17087,59326,Turkiye,JDAM,guided bomb,Missiles,2015,650,2018,0.02,0.02,13.0
-17088,56904,Turkiye,DB-110,aircraft reconnaissance system,Sensors,2013,4,2014,4.0,4.0,16.0
-17194,17511,Turkiye,AIM-7F Sparrow,long-range air-to-air missile,Missiles,1983,45,1990,0.16,0.16,7.2
-17204,18615,Turkiye,M-270 MLRS,multiple rocket launcher,Artillery,1988,6,1992,1.2,1.2,7.2
-17206,18692,Turkiye,TPS-77,air-search radar,Sensors,1992,1,1994,11.0,11.0,11.0
-17207,18692,Turkiye,TPS-77,air-search radar,Sensors,1992,1,1995,11.0,11.0,11.0
-17212,19868,Turkiye,AIM-9M,short-range air-to-air missile,Missiles,1990,100,1993,0.12,0.12,12.0
-17213,19868,Turkiye,AIM-9M,short-range air-to-air missile,Missiles,1990,100,1994,0.12,0.12,12.0
-17214,19868,Turkiye,AIM-9M,short-range air-to-air missile,Missiles,1990,110,1995,0.12,0.12,13.2
-17215,20598,Turkiye,Harpoon Block-1,anti-ship missile,Missiles,1990,22,1995,0.9,0.9,19.8
-17216,20598,Turkiye,Harpoon Block-1,anti-ship missile,Missiles,1990,18,1996,0.9,0.9,16.2
-17217,20324,Turkiye,AGM-88 HARM,anti-radar missile,Missiles,1993,25,1994,0.25,0.25,6.25
-17218,20324,Turkiye,AGM-88 HARM,anti-radar missile,Missiles,1993,75,1995,0.25,0.25,18.75
-17219,20325,Turkiye,Stinger,portable SAM,Missiles,1991,469,1992,0.08,0.08,37.52
-17220,20419,Turkiye,TPS-77,air-search radar,Sensors,1991,1,1993,11.0,11.0,11.0
-17221,20548,Turkiye,M-110A2 203mm,self-propelled gun,Artillery,1991,3,1993,1.1,0.44,1.32
-17222,20548,Turkiye,M-110A2 203mm,self-propelled gun,Artillery,1991,69,1992,1.1,0.44,30.36
-17223,20609,Turkiye,AGM-65 Maverick,air-to-surface missile,Missiles,1991,91,1993,0.15,0.15,13.65
-17224,20609,Turkiye,AGM-65 Maverick,air-to-surface missile,Missiles,1991,92,1994,0.15,0.15,13.8
-17225,20609,Turkiye,AGM-65 Maverick,air-to-surface missile,Missiles,1991,91,1995,0.15,0.15,13.65
-17226,20707,Turkiye,AIM-120B AMRAAM,long-range air-to-air missile,Missiles,1993,38,1999,0.4,0.4,15.2
-17227,20707,Turkiye,AIM-120B AMRAAM,long-range air-to-air missile,Missiles,1993,50,1997,0.4,0.4,20.0
-17228,20707,Turkiye,AIM-120B AMRAAM,long-range air-to-air missile,Missiles,1993,50,1998,0.4,0.4,20.0
-17229,20709,Turkiye,TPQ-36,artillery locating radar,Sensors,1992,2,1996,3.0,3.0,6.0
-17230,20709,Turkiye,TPQ-36,artillery locating radar,Sensors,1992,2,1995,3.0,3.0,6.0
-17231,20709,Turkiye,TPQ-36,artillery locating radar,Sensors,1992,1,1997,3.0,3.0,3.0
-17232,20716,Turkiye,R-22,light helicopter,Aircraft,1991,10,1992,0.13,0.13,1.3
-17233,20714,Turkiye,S-70L Black Hawk,transport helicopter,Aircraft,1999,20,1999,7.25,7.25,145.0
-17234,20714,Turkiye,S-70L Black Hawk,transport helicopter,Aircraft,1999,12,2002,7.25,7.25,87.0
-17235,20714,Turkiye,S-70L Black Hawk,transport helicopter,Aircraft,1999,12,2000,7.25,7.25,87.0
-17236,20714,Turkiye,S-70L Black Hawk,transport helicopter,Aircraft,1999,6,2001,7.25,7.25,43.5
-17239,21376,Turkiye,Harpoon Block-1,anti-ship missile,Missiles,1993,32,1993,0.9,0.9,28.8
-17240,21378,Turkiye,T-38,trainer aircraft,Aircraft,1991,3,1993,3.3,1.32,3.96
-17241,21379,Turkiye,T-38,trainer aircraft,Aircraft,1992,40,1993,3.3,1.32,52.8
-17242,21748,Turkiye,Harpoon Block-1,anti-ship missile,Missiles,1993,20,1999,0.9,0.9,18.0
-17243,21748,Turkiye,Harpoon Block-1,anti-ship missile,Missiles,1993,20,2000,0.9,0.9,18.0
-17244,21748,Turkiye,Harpoon Block-1,anti-ship missile,Missiles,1993,5,2001,0.9,0.9,4.5
-17245,21748,Turkiye,Harpoon Block-1,anti-ship missile,Missiles,1993,5,1997,0.9,0.9,4.5
-17248,21749,Turkiye,AIM-9M,short-range air-to-air missile,Missiles,1992,100,1996,0.12,0.12,12.0
-17249,21749,Turkiye,AIM-9M,short-range air-to-air missile,Missiles,1992,100,1997,0.12,0.12,12.0
-17250,21902,Turkiye,Harpoon Block-1,anti-ship missile,Missiles,1993,32,1994,0.9,0.9,28.8
-17251,22522,Turkiye,Harpoon Block-1,anti-ship missile,Missiles,1991,15,1996,0.9,0.9,13.5
-17252,22522,Turkiye,Harpoon Block-1,anti-ship missile,Missiles,1991,15,1997,0.9,0.9,13.5
-17253,22645,Turkiye,Mk-45 127mm,naval gun,Naval weapons,1990,1,1996,5.25,5.25,5.25
-17254,22645,Turkiye,Mk-45 127mm,naval gun,Naval weapons,1990,1,1995,5.25,5.25,5.25
-17256,23382,Turkiye,AIM-9M,short-range air-to-air missile,Missiles,1994,200,1998,0.12,0.12,24.0
-17257,23382,Turkiye,AIM-9M,short-range air-to-air missile,Missiles,1994,300,1999,0.12,0.12,36.0
-17258,23384,Turkiye,Harpoon Block-1,anti-ship missile,Missiles,1995,16,2002,0.9,0.9,14.4
-17259,23393,Turkiye,AIM-7P,long-range air-to-air missile,Missiles,1994,5,1996,0.2,0.2,1.0
-17260,23393,Turkiye,AIM-7P,long-range air-to-air missile,Missiles,1994,10,1997,0.2,0.2,2.0
-17261,23393,Turkiye,AIM-7P,long-range air-to-air missile,Missiles,1994,10,1998,0.2,0.2,2.0
-17262,23393,Turkiye,AIM-7P,long-range air-to-air missile,Missiles,1994,10,1999,0.2,0.2,2.0
-17263,23393,Turkiye,AIM-7P,long-range air-to-air missile,Missiles,1994,5,2000,0.2,0.2,1.0
-17265,23907,Turkiye,ATACMS-1,surface-to-surface missile,Missiles,1996,72,1998,1.4,1.4,100.8
-17266,23936,Turkiye,Mk-45 127mm,naval gun,Naval weapons,1994,1,2000,5.25,5.25,5.25
-17267,23936,Turkiye,Mk-45 127mm,naval gun,Naval weapons,1994,1,1998,5.25,5.25,5.25
-17275,24384,Turkiye,Dragoon,APC,Armoured vehicles,1991,140,1999,0.3,0.3,42.0
-17276,24384,Turkiye,Dragoon,APC,Armoured vehicles,1991,10,1997,0.3,0.3,3.0
-17277,24604,Turkiye,Harpoon Block-1,anti-ship missile,Missiles,1993,16,1998,0.9,0.9,14.4
-17278,24604,Turkiye,Harpoon Block-1,anti-ship missile,Missiles,1993,17,2000,0.9,0.9,15.3
-17279,24604,Turkiye,Harpoon Block-1,anti-ship missile,Missiles,1993,17,1999,0.9,0.9,15.3
-17282,24995,Turkiye,AGM-114 Hellfire-2,anti-tank/air-to-surface missile,Missiles,1999,10,2000,0.05,0.05,0.5
-17283,24995,Turkiye,AGM-114 Hellfire-2,anti-tank/air-to-surface missile,Missiles,1999,74,2001,0.05,0.05,3.7
-17310,25726,Turkiye,Gulfstream-4,light transport aircraft,Aircraft,1990,1,1993,23.0,23.0,23.0
-17311,25726,Turkiye,Gulfstream-4,light transport aircraft,Aircraft,1990,1,1991,23.0,23.0,23.0
-17312,25726,Turkiye,Gulfstream-4,light transport aircraft,Aircraft,1990,1,1992,23.0,23.0,23.0
-17313,27597,Turkiye,TOW,anti-tank missile,Missiles,1995,686,1996,0.01,0.01,6.86
-17314,28612,Turkiye,S-70L Black Hawk,transport helicopter,Aircraft,2003,2,2004,7.25,7.25,14.5
-17315,28786,Turkiye,Gnat-750,UAV,Aircraft,1994,6,1995,0.2,0.2,1.2
-17317,29112,Turkiye,MX-7,light aircraft,Aircraft,1993,1,1993,0.1,0.1,0.1
-17318,29234,Turkiye,AGM-65 Maverick,air-to-surface missile,Missiles,1993,30,1996,0.15,0.15,4.5
-17319,29234,Turkiye,AGM-65 Maverick,air-to-surface missile,Missiles,1993,50,1995,0.15,0.15,7.5
-17320,29410,Turkiye,I-HAWK SAMS,SAM system,Air-defence systems,2002,8,2005,35.0,23.1,184.8
-17324,30418,Turkiye,Perry,frigate,Ships,2000,1,2000,300.0,120.0,120.0
-17325,31089,Turkiye,MPQ-64 Sentinel,air-search radar,Sensors,2002,8,2005,5.0,5.0,40.0
-17326,31895,Turkiye,Perry,frigate,Ships,2001,1,2002,300.0,120.0,120.0
-17328,32717,Turkiye,Phalanx,naval gun,Naval weapons,1993,1,1995,7.0,7.0,7.0
-17329,32944,Turkiye,AGM-114 Hellfire-2,anti-tank/air-to-surface missile,Missiles,2000,36,2001,0.05,0.05,1.8
-17330,32944,Turkiye,AGM-114 Hellfire-2,anti-tank/air-to-surface missile,Missiles,2000,36,2002,0.05,0.05,1.8
-17337,32976,Turkiye,Perry,frigate,Ships,2002,1,2003,300.0,120.0,120.0
-17338,33555,Turkiye,AGM-114 Hellfire-2,anti-tank/air-to-surface missile,Missiles,2002,72,2003,0.05,0.05,3.6
-17339,33555,Turkiye,AGM-114 Hellfire-2,anti-tank/air-to-surface missile,Missiles,2002,72,2004,0.05,0.05,3.6
-17340,33856,Turkiye,Gnat-750,UAV,Aircraft,1998,2,1998,0.2,0.2,0.4
-17341,34144,Turkiye,MPQ-64 Sentinel,air-search radar,Sensors,1997,1,1999,5.0,5.0,5.0
-17342,34144,Turkiye,MPQ-64 Sentinel,air-search radar,Sensors,1997,2,2000,5.0,5.0,10.0
-17343,34144,Turkiye,MPQ-64 Sentinel,air-search radar,Sensors,1997,2,2001,5.0,5.0,10.0
-17348,35448,Turkiye,AIM-9X,long-range air-to-air missile,Missiles,2006,127,2008,0.18,0.18,22.86
-17349,36008,Turkiye,RIM-116A RAM,SAM,Missiles,2007,25,2011,0.14,0.14,3.5
-17350,36008,Turkiye,RIM-116A RAM,SAM,Missiles,2007,13,2013,0.14,0.14,1.82
-17351,36008,Turkiye,RIM-116A RAM,SAM,Missiles,2007,13,2017,0.14,0.14,1.82
-17352,36008,Turkiye,RIM-116A RAM,SAM,Missiles,2007,12,2018,0.14,0.14,1.68
-17353,36008,Turkiye,RIM-116A RAM,SAM,Missiles,2007,12,2016,0.14,0.14,1.68
-17354,36008,Turkiye,RIM-116A RAM,SAM,Missiles,2007,12,2014,0.14,0.14,1.68
-17355,36008,Turkiye,RIM-116A RAM,SAM,Missiles,2007,13,2015,0.14,0.14,1.82
-17356,36008,Turkiye,RIM-116A RAM,SAM,Missiles,2007,12,2012,0.14,0.14,1.68
-17357,36008,Turkiye,RIM-116A RAM,SAM,Missiles,2007,13,2019,0.14,0.14,1.82
-17358,36075,Turkiye,AGM-154 JSOW,guided glide bomb,Missiles,2006,52,2008,0.4,0.4,20.8
-17359,36075,Turkiye,AGM-154 JSOW,guided glide bomb,Missiles,2006,52,2007,0.4,0.4,20.8
-17360,36138,Turkiye,Paveway,guided bomb,Missiles,1995,100,1996,0.02,0.02,2.0
-17373,37692,Turkiye,aircraft engine 1001-2000,aircraft engine,Engines,1998,6,2014,0.5,0.5,3.0
-17374,37692,Turkiye,aircraft engine 1001-2000,aircraft engine,Engines,1998,12,2013,0.5,0.5,6.0
-17375,37850,Turkiye,vehicle engine 601-800,vehicle engine,Engines,1982,220,1991,0.11,0.11,24.2
-17376,37850,Turkiye,vehicle engine 601-800,vehicle engine,Engines,1982,220,1990,0.11,0.11,24.2
-17384,37850,Turkiye,vehicle engine 601-800,vehicle engine,Engines,1982,220,1992,0.11,0.11,24.2
-17385,37850,Turkiye,vehicle engine 601-800,vehicle engine,Engines,1982,150,1993,0.11,0.11,16.5
-17386,37815,Turkiye,aircraft engine 1001-2000,aircraft engine,Engines,1991,6,1992,0.5,0.5,3.0
-17387,37815,Turkiye,aircraft engine 1001-2000,aircraft engine,Engines,1991,12,1993,0.5,0.5,6.0
-17388,37815,Turkiye,aircraft engine 1001-2000,aircraft engine,Engines,1991,12,1994,0.5,0.5,6.0
-17389,37815,Turkiye,aircraft engine 1001-2000,aircraft engine,Engines,1991,18,1995,0.5,0.5,9.0
-17390,37815,Turkiye,aircraft engine 1001-2000,aircraft engine,Engines,1991,18,1996,0.5,0.5,9.0
-17391,37815,Turkiye,aircraft engine 1001-2000,aircraft engine,Engines,1991,20,1997,0.5,0.5,10.0
-17392,37815,Turkiye,aircraft engine 1001-2000,aircraft engine,Engines,1991,18,1998,0.5,0.5,9.0
-17396,38053,Turkiye,LM-2500 (30001-35000),gas turbine,Engines,1990,2,2000,7.0,7.0,14.0
-17397,38053,Turkiye,LM-2500 (30001-35000),gas turbine,Engines,1990,2,1996,7.0,7.0,14.0
-17398,38053,Turkiye,LM-2500 (30001-35000),gas turbine,Engines,1990,2,1998,7.0,7.0,14.0
-17399,38053,Turkiye,LM-2500 (30001-35000),gas turbine,Engines,1990,2,1995,7.0,7.0,14.0
-17400,38055,Turkiye,DE-1160,anti-submarine sonar,Sensors,1990,1,1995,5.0,5.0,5.0
-17401,38055,Turkiye,DE-1160,anti-submarine sonar,Sensors,1990,1,1996,5.0,5.0,5.0
-17402,38055,Turkiye,DE-1160,anti-submarine sonar,Sensors,1990,1,1998,5.0,5.0,5.0
-17403,38055,Turkiye,DE-1160,anti-submarine sonar,Sensors,1990,1,2000,5.0,5.0,5.0
-17404,63859,Turkiye,vehicle engine 301-400,vehicle engine,Engines,2017,200,2018,0.05,0.05,10.0
-17405,63859,Turkiye,vehicle engine 301-400,vehicle engine,Engines,2017,200,2019,0.05,0.05,10.0
-17406,63859,Turkiye,vehicle engine 301-400,vehicle engine,Engines,2017,129,2020,0.05,0.05,6.45
-17414,67532,Turkiye,vehicle engine 301-400,vehicle engine,Engines,2018,212,2021,0.05,0.05,10.6
-17415,67532,Turkiye,vehicle engine 301-400,vehicle engine,Engines,2018,250,2020,0.05,0.05,12.5
-17416,67532,Turkiye,vehicle engine 301-400,vehicle engine,Engines,2018,250,2019,0.05,0.05,12.5
-17417,35552,Turkiye,S-70L Black Hawk,transport helicopter,Aircraft,2014,9,2024,7.25,7.25,65.25
-17418,35552,Turkiye,S-70L Black Hawk,transport helicopter,Aircraft,2014,9,2023,7.25,7.25,65.25
-17419,35552,Turkiye,S-70L Black Hawk,transport helicopter,Aircraft,2014,3,2022,7.25,7.25,21.75
-17420,62318,Turkiye,LM-2500 (30001-35000),gas turbine,Engines,2016,1,2024,7.0,7.0,7.0
-17421,29901,Turkiye,AIFV-APC,APC,Armoured vehicles,2000,166,2003,0.3,0.3,49.8
-17422,29901,Turkiye,AIFV-APC,APC,Armoured vehicles,2000,123,2002,0.3,0.3,36.9
-17423,29901,Turkiye,AIFV-APC,APC,Armoured vehicles,2000,77,2001,0.3,0.3,23.1
-17424,29901,Turkiye,AIFV-APC,APC,Armoured vehicles,2000,185,2004,0.3,0.3,55.5
-17427,20624,Turkiye,M-60A3,tank,Armoured vehicles,1991,391,1992,2.1,0.84,328.44
-17428,20624,Turkiye,M-60A3,tank,Armoured vehicles,1991,267,1993,2.1,0.84,224.28
-17429,20543,Turkiye,M-60A1,tank,Armoured vehicles,1991,25,1992,1.8,0.72,18.0
-17430,20543,Turkiye,M-60A1,tank,Armoured vehicles,1991,62,1994,1.8,0.72,44.64
-17431,20543,Turkiye,M-60A1,tank,Armoured vehicles,1991,187,1993,1.8,0.72,134.64
-17432,30229,Turkiye,B-737 AEW,airborne early-warning aircraft,Aircraft,2002,1,2015,250.0,250.0,250.0
-17433,30229,Turkiye,B-737 AEW,airborne early-warning aircraft,Aircraft,2002,3,2014,250.0,250.0,750.0
-17434,20371,Turkiye,M-113,APC,Armoured vehicles,1990,131,1993,0.25,0.1,13.1
-17435,20371,Turkiye,M-113,APC,Armoured vehicles,1990,119,1992,0.25,0.1,11.9
-17436,56479,Turkiye,vehicle engine 301-400,vehicle engine,Engines,2013,25,2015,0.05,0.05,1.25
-17437,56479,Turkiye,vehicle engine 301-400,vehicle engine,Engines,2013,25,2014,0.05,0.05,1.25
+16743,67889,Turkey,LM-2500 (30001-35000),gas turbine,Engines,2018,2,2024,7.0,7.0,14.0
+16765,64821,Turkey,vehicle engine 301-400,vehicle engine,Engines,2016,34,2022,0.05,0.05,1.7
+16766,64821,Turkey,vehicle engine 301-400,vehicle engine,Engines,2016,50,2020,0.05,0.05,2.5
+16767,64821,Turkey,vehicle engine 301-400,vehicle engine,Engines,2016,100,2021,0.05,0.05,5.0
+16768,36007,Turkey,MK-41 SAMS,naval SAM system,Naval weapons,2005,2,2013,20.0,20.0,40.0
+16769,36007,Turkey,MK-41 SAMS,naval SAM system,Naval weapons,2005,2,2014,20.0,20.0,40.0
+16770,57510,Turkey,Mk-29 SAMS,naval SAM system,Naval weapons,1990,1,1996,5.0,5.0,5.0
+16771,57510,Turkey,Mk-29 SAMS,naval SAM system,Naval weapons,1990,1,1995,5.0,5.0,5.0
+16772,57511,Turkey,MK-41 SAMS,naval SAM system,Naval weapons,1994,1,2000,20.0,20.0,20.0
+16773,57511,Turkey,MK-41 SAMS,naval SAM system,Naval weapons,1994,1,1998,20.0,20.0,20.0
+16777,37519,Turkey,AAQ-13 LANTIRN,combat aircraft radar,Sensors,1990,13,1994,1.0,1.0,13.0
+16778,37519,Turkey,AAQ-13 LANTIRN,combat aircraft radar,Sensors,1990,14,1995,1.0,1.0,14.0
+16779,37519,Turkey,AAQ-13 LANTIRN,combat aircraft radar,Sensors,1990,13,1996,1.0,1.0,13.0
+16780,37518,Turkey,AAQ-14 LANTIRN,aircraft electro-optical system,Sensors,1990,7,1995,1.0,1.0,7.0
+16781,37518,Turkey,AAQ-14 LANTIRN,aircraft electro-optical system,Sensors,1990,6,1994,1.0,1.0,6.0
+16782,37518,Turkey,AAQ-14 LANTIRN,aircraft electro-optical system,Sensors,1990,7,1996,1.0,1.0,7.0
+16783,4247,Turkey,AH-1S Cobra,combat helicopter,Aircraft,1992,8,1993,4.28,1.71,13.7
+16784,4247,Turkey,AH-1S Cobra,combat helicopter,Aircraft,1992,6,1992,4.28,1.71,10.27
+16786,55098,Turkey,King Air,light transport aircraft,Aircraft,2012,5,2012,2.85,1.88,9.41
+16800,37900,Turkey,vehicle engine 201-300,vehicle engine,Engines,1990,125,2004,0.03,0.03,3.75
+16801,37900,Turkey,vehicle engine 201-300,vehicle engine,Engines,1990,125,2003,0.03,0.03,3.75
+16802,37900,Turkey,vehicle engine 201-300,vehicle engine,Engines,1990,125,2002,0.03,0.03,3.75
+16803,37900,Turkey,vehicle engine 201-300,vehicle engine,Engines,1990,125,2001,0.03,0.03,3.75
+16804,37900,Turkey,vehicle engine 201-300,vehicle engine,Engines,1990,100,2000,0.03,0.03,3.0
+16805,37900,Turkey,vehicle engine 201-300,vehicle engine,Engines,1990,100,1999,0.03,0.03,3.0
+16806,37900,Turkey,vehicle engine 201-300,vehicle engine,Engines,1990,100,1998,0.03,0.03,3.0
+16807,37900,Turkey,vehicle engine 201-300,vehicle engine,Engines,1990,100,1997,0.03,0.03,3.0
+16808,37900,Turkey,vehicle engine 201-300,vehicle engine,Engines,1990,100,1996,0.03,0.03,3.0
+16809,37900,Turkey,vehicle engine 201-300,vehicle engine,Engines,1990,100,1995,0.03,0.03,3.0
+16810,37900,Turkey,vehicle engine 201-300,vehicle engine,Engines,1990,100,1994,0.03,0.03,3.0
+16811,37900,Turkey,vehicle engine 201-300,vehicle engine,Engines,1990,100,1993,0.03,0.03,3.0
+16812,37900,Turkey,vehicle engine 201-300,vehicle engine,Engines,1990,100,1992,0.03,0.03,3.0
+16813,37900,Turkey,vehicle engine 201-300,vehicle engine,Engines,1990,100,1991,0.03,0.03,3.0
+16814,37900,Turkey,vehicle engine 201-300,vehicle engine,Engines,1990,125,2005,0.03,0.03,3.75
+16815,37900,Turkey,vehicle engine 201-300,vehicle engine,Engines,1990,125,2006,0.03,0.03,3.75
+16816,37900,Turkey,vehicle engine 201-300,vehicle engine,Engines,1990,125,2007,0.03,0.03,3.75
+16817,37900,Turkey,vehicle engine 201-300,vehicle engine,Engines,1990,125,2008,0.03,0.03,3.75
+16821,61640,Turkey,vehicle engine 301-400,vehicle engine,Engines,2016,50,2016,0.05,0.05,2.5
+16825,29166,Turkey,SH-60B Seahawk,anti-submarine helicopter,Aircraft,2006,7,2013,17.0,17.0,119.0
+16826,29166,Turkey,SH-60B Seahawk,anti-submarine helicopter,Aircraft,2006,5,2014,17.0,17.0,85.0
+16827,29166,Turkey,SH-60B Seahawk,anti-submarine helicopter,Aircraft,2006,5,2012,17.0,17.0,85.0
+16828,58180,Turkey,AIM-9X,long-range air-to-air missile,Missiles,2014,60,2016,0.18,0.18,10.8
+16829,58180,Turkey,AIM-9X,long-range air-to-air missile,Missiles,2014,57,2015,0.18,0.18,10.26
+16830,58224,Turkey,CH-47F,transport helicopter,Aircraft,2015,1,2018,20.0,20.0,20.0
+16831,58224,Turkey,CH-47F,transport helicopter,Aircraft,2015,3,2019,20.0,20.0,60.0
+16832,27741,Turkey,Mk-46-5,anti-submarine torpedo,Missiles,1990,50,1991,0.35,0.35,17.5
+16833,27741,Turkey,Mk-46-5,anti-submarine torpedo,Missiles,1990,50,1992,0.35,0.35,17.5
+16834,27741,Turkey,Mk-46-5,anti-submarine torpedo,Missiles,1990,50,1993,0.35,0.35,17.5
+16835,27741,Turkey,Mk-46-5,anti-submarine torpedo,Missiles,1990,50,1994,0.35,0.35,17.5
+16836,27741,Turkey,Mk-46-5,anti-submarine torpedo,Missiles,1990,50,1995,0.35,0.35,17.5
+16837,27741,Turkey,Mk-46-5,anti-submarine torpedo,Missiles,1990,50,1996,0.35,0.35,17.5
+16838,27741,Turkey,Mk-46-5,anti-submarine torpedo,Missiles,1990,50,1997,0.35,0.35,17.5
+16839,27741,Turkey,Mk-46-5,anti-submarine torpedo,Missiles,1990,50,1998,0.35,0.35,17.5
+16840,27741,Turkey,Mk-46-5,anti-submarine torpedo,Missiles,1990,50,1999,0.35,0.35,17.5
+16841,27741,Turkey,Mk-46-5,anti-submarine torpedo,Missiles,1990,50,2000,0.35,0.35,17.5
+16842,27741,Turkey,Mk-46-5,anti-submarine torpedo,Missiles,1990,50,2001,0.35,0.35,17.5
+16843,27741,Turkey,Mk-46-5,anti-submarine torpedo,Missiles,1990,50,2002,0.35,0.35,17.5
+16844,27741,Turkey,Mk-46-5,anti-submarine torpedo,Missiles,1990,50,2003,0.35,0.35,17.5
+16845,27741,Turkey,Mk-46-5,anti-submarine torpedo,Missiles,1990,50,2004,0.35,0.35,17.5
+16846,27741,Turkey,Mk-46-5,anti-submarine torpedo,Missiles,1990,50,2005,0.35,0.35,17.5
+16847,52163,Turkey,Gnat-750,UAV,Aircraft,1995,8,1995,0.2,0.2,1.6
+16848,52163,Turkey,Gnat-750,UAV,Aircraft,1995,8,1996,0.2,0.2,1.6
+16849,20028,Turkey,AH-1S Cobra,combat helicopter,Aircraft,1993,4,1995,4.28,1.71,6.85
+16850,20028,Turkey,AH-1S Cobra,combat helicopter,Aircraft,1993,12,1994,4.28,1.71,20.54
+16851,50024,Turkey,ESSM,SAM,Missiles,2009,16,2011,0.4,0.4,6.4
+16852,50024,Turkey,ESSM,SAM,Missiles,2009,32,2012,0.4,0.4,12.8
+16853,50024,Turkey,ESSM,SAM,Missiles,2009,76,2013,0.4,0.4,30.4
+16854,50024,Turkey,ESSM,SAM,Missiles,2009,76,2014,0.4,0.4,30.4
+16855,50024,Turkey,ESSM,SAM,Missiles,2009,25,2015,0.4,0.4,10.0
+16856,50024,Turkey,ESSM,SAM,Missiles,2009,25,2016,0.4,0.4,10.0
+16857,50024,Turkey,ESSM,SAM,Missiles,2009,25,2017,0.4,0.4,10.0
+16858,58676,Turkey,Phalanx,naval gun,Naval weapons,2015,2,2023,7.0,7.0,14.0
+16859,53514,Turkey,Phalanx,naval gun,Naval weapons,2011,2,2017,7.0,7.0,14.0
+16860,53514,Turkey,Phalanx,naval gun,Naval weapons,2011,2,2018,7.0,7.0,14.0
+16865,21148,Turkey,Knox,frigate,Ships,1993,4,1993,275.0,110.0,440.0
+16866,21753,Turkey,Knox,frigate,Ships,1993,4,1994,275.0,110.0,440.0
+16868,23077,Turkey,KC-135,tanker/transport aircraft,Aircraft,1995,2,1995,60.0,24.0,48.0
+16877,21625,Turkey,AH-1W,combat helicopter,Aircraft,1992,3,1993,11.5,11.5,34.5
+16878,21625,Turkey,AH-1W,combat helicopter,Aircraft,1992,2,1994,11.5,11.5,23.0
+16879,20065,Turkey,AH-1W,combat helicopter,Aircraft,1990,2,1990,11.5,11.5,23.0
+16880,20065,Turkey,AH-1W,combat helicopter,Aircraft,1990,3,1991,11.5,11.5,34.5
+16881,50766,Turkey,aircraft engine 1001-2000,aircraft engine,Engines,2008,18,2016,0.5,0.5,9.0
+16882,50766,Turkey,aircraft engine 1001-2000,aircraft engine,Engines,2008,18,2017,0.5,0.5,9.0
+16883,50766,Turkey,aircraft engine 1001-2000,aircraft engine,Engines,2008,20,2018,0.5,0.5,10.0
+16884,50766,Turkey,aircraft engine 1001-2000,aircraft engine,Engines,2008,26,2019,0.5,0.5,13.0
+16885,50766,Turkey,aircraft engine 1001-2000,aircraft engine,Engines,2008,2,2020,0.5,0.5,1.0
+16886,50766,Turkey,aircraft engine 1001-2000,aircraft engine,Engines,2008,10,2021,0.5,0.5,5.0
+16887,50766,Turkey,aircraft engine 1001-2000,aircraft engine,Engines,2008,2,2022,0.5,0.5,1.0
+16888,50766,Turkey,aircraft engine 1001-2000,aircraft engine,Engines,2008,2,2023,0.5,0.5,1.0
+16889,20063,Turkey,S-70A Black Hawk,transport helicopter,Aircraft,1990,6,1990,6.5,6.5,39.0
+16890,20715,Turkey,S-70A Black Hawk,transport helicopter,Aircraft,1992,40,1993,6.5,6.5,260.0
+16891,20715,Turkey,S-70A Black Hawk,transport helicopter,Aircraft,1992,5,1994,6.5,6.5,32.5
+16892,20972,Turkey,Commando V-150,APC,Armoured vehicles,1992,25,1992,0.2,0.2,5.0
+16893,20972,Turkey,Commando V-150,APC,Armoured vehicles,1992,25,1993,0.2,0.2,5.0
+16894,20972,Turkey,Commando V-150,APC,Armoured vehicles,1992,74,1994,0.2,0.2,14.8
+16896,29408,Turkey,Dragoon,APC,Armoured vehicles,1998,30,2003,0.3,0.3,9.0
+16897,29408,Turkey,Dragoon,APC,Armoured vehicles,1998,25,2002,0.3,0.3,7.5
+16898,29408,Turkey,Dragoon,APC,Armoured vehicles,1998,25,2004,0.3,0.3,7.5
+16901,16762,Turkey,HR-3000 HADR,air-search radar,Sensors,1985,1,1990,11.0,11.0,11.0
+16906,29421,Turkey,King Air,light transport aircraft,Aircraft,1990,5,1991,2.85,2.85,14.25
+16907,33238,Turkey,CH-47F,transport helicopter,Aircraft,2011,6,2016,20.0,20.0,120.0
+16908,38509,Turkey,LM-2500 (30001-35000),gas turbine,Engines,2007,1,2013,7.0,7.0,7.0
+16909,38509,Turkey,LM-2500 (30001-35000),gas turbine,Engines,2007,1,2011,7.0,7.0,7.0
+16910,58765,Turkey,LM-2500 (30001-35000),gas turbine,Engines,2015,1,2019,7.0,7.0,7.0
+16911,58765,Turkey,LM-2500 (30001-35000),gas turbine,Engines,2015,1,2018,7.0,7.0,7.0
+16912,35493,Turkey,APG-68,combat aircraft radar,Sensors,2005,45,2012,2.0,2.0,90.0
+16913,35493,Turkey,APG-68,combat aircraft radar,Sensors,2005,4,2011,2.0,2.0,8.0
+16914,35493,Turkey,APG-68,combat aircraft radar,Sensors,2005,50,2013,2.0,2.0,100.0
+16915,35493,Turkey,APG-68,combat aircraft radar,Sensors,2005,48,2014,2.0,2.0,96.0
+16916,35493,Turkey,APG-68,combat aircraft radar,Sensors,2005,6,2009,2.0,2.0,12.0
+16917,35493,Turkey,APG-68,combat aircraft radar,Sensors,2005,10,2015,2.0,2.0,20.0
+16918,58822,Turkey,JDAM,guided bomb,Missiles,2012,300,2013,0.02,0.02,6.0
+16919,62425,Turkey,JDAM,guided bomb,Missiles,2017,100,2018,0.02,0.02,2.0
+16925,61861,Turkey,aircraft engine 1001-2000,aircraft engine,Engines,2017,10,2018,0.5,0.5,5.0
+16926,61861,Turkey,aircraft engine 1001-2000,aircraft engine,Engines,2017,2,2019,0.5,0.5,1.0
+16927,61861,Turkey,aircraft engine 1001-2000,aircraft engine,Engines,2017,14,2021,0.5,0.5,7.0
+16928,61861,Turkey,aircraft engine 1001-2000,aircraft engine,Engines,2017,4,2022,0.5,0.5,2.0
+16932,62538,Turkey,FGM-148 Javelin,anti-tank missile,Missiles,2017,160,2017,0.03,0.03,4.8
+16935,35442,Turkey,AGM-84H SLAM-ER,air-to-surface missile,Missiles,2006,50,2011,1.25,1.25,62.5
+16936,18494,Turkey,AIFV --,infantry fighting vehicle,Armoured vehicles,1988,20,1990,0.3,0.3,6.0
+16937,18494,Turkey,AIFV --,infantry fighting vehicle,Armoured vehicles,1988,45,1991,0.3,0.3,13.5
+16938,18494,Turkey,AIFV --,infantry fighting vehicle,Armoured vehicles,1988,94,1992,0.3,0.3,28.2
+16939,18494,Turkey,AIFV --,infantry fighting vehicle,Armoured vehicles,1988,165,1993,0.3,0.3,49.5
+16940,18494,Turkey,AIFV --,infantry fighting vehicle,Armoured vehicles,1988,175,1994,0.3,0.3,52.5
+16941,18494,Turkey,AIFV --,infantry fighting vehicle,Armoured vehicles,1988,341,1995,0.3,0.3,102.3
+16942,18494,Turkey,AIFV --,infantry fighting vehicle,Armoured vehicles,1988,268,1997,0.3,0.3,80.4
+16943,18494,Turkey,AIFV --,infantry fighting vehicle,Armoured vehicles,1988,196,1998,0.3,0.3,58.8
+16944,18494,Turkey,AIFV --,infantry fighting vehicle,Armoured vehicles,1988,200,1999,0.3,0.3,60.0
+16945,18494,Turkey,AIFV --,infantry fighting vehicle,Armoured vehicles,1988,194,2000,0.3,0.3,58.2
+16946,21382,Turkey,Cessna-337,light aircraft,Aircraft,1992,6,1993,0.35,0.14,0.84
+16953,39627,Turkey,Mk-54 LWT,anti-submarine torpedo,Missiles,2009,25,2012,0.5,0.5,12.5
+16954,39627,Turkey,Mk-54 LWT,anti-submarine torpedo,Missiles,2009,50,2013,0.5,0.5,25.0
+16955,39627,Turkey,Mk-54 LWT,anti-submarine torpedo,Missiles,2009,25,2014,0.5,0.5,12.5
+16956,59683,Turkey,Phalanx,naval gun,Naval weapons,2015,2,2018,7.0,7.0,14.0
+16957,59683,Turkey,Phalanx,naval gun,Naval weapons,2015,2,2017,7.0,7.0,14.0
+16959,18253,Turkey,AIM-7F Sparrow,long-range air-to-air missile,Missiles,1987,20,1990,0.16,0.16,3.2
+16960,18253,Turkey,AIM-7F Sparrow,long-range air-to-air missile,Missiles,1987,60,1991,0.16,0.16,9.6
+16961,60937,Turkey,RIM-116A RAM,SAM,Missiles,2016,150,2023,0.14,0.14,21.0
+16962,61022,Turkey,AGM-84H SLAM-ER,air-to-surface missile,Missiles,2016,2,2016,1.25,1.25,2.5
+16963,61022,Turkey,AGM-84H SLAM-ER,air-to-surface missile,Missiles,2016,46,2017,1.25,1.25,57.5
+16966,18420,Turkey,F-16C,FGA aircraft,Aircraft,1984,28,1992,28.5,28.5,798.0
+16967,18420,Turkey,F-16C,FGA aircraft,Aircraft,1984,16,1993,28.5,28.5,456.0
+16969,18420,Turkey,F-16C,FGA aircraft,Aircraft,1984,24,1990,28.5,28.5,684.0
+16970,18420,Turkey,F-16C,FGA aircraft,Aircraft,1984,25,1991,28.5,28.5,712.5
+16971,18420,Turkey,F-16C,FGA aircraft,Aircraft,1984,20,1994,28.5,28.5,570.0
+16972,18420,Turkey,F-16C,FGA aircraft,Aircraft,1984,10,1995,28.5,28.5,285.0
+16973,20327,Turkey,F-16C Block-50,FGA aircraft,Aircraft,1992,26,1997,31.0,31.0,806.0
+16974,20327,Turkey,F-16C Block-50,FGA aircraft,Aircraft,1992,4,1998,31.0,31.0,124.0
+16975,20327,Turkey,F-16C Block-50,FGA aircraft,Aircraft,1992,10,1996,31.0,31.0,310.0
+16978,21752,Turkey,F-16C Block-50,FGA aircraft,Aircraft,1994,20,1998,31.0,31.0,620.0
+16979,21752,Turkey,F-16C Block-50,FGA aircraft,Aircraft,1994,20,1999,31.0,31.0,620.0
+16980,26087,Turkey,Stinger,portable SAM,Missiles,1986,334,2004,0.08,0.08,26.72
+16981,26087,Turkey,Stinger,portable SAM,Missiles,1986,116,1993,0.08,0.08,9.28
+16982,26087,Turkey,Stinger,portable SAM,Missiles,1986,500,1994,0.08,0.08,40.0
+16983,26087,Turkey,Stinger,portable SAM,Missiles,1986,700,1995,0.08,0.08,56.0
+16984,26087,Turkey,Stinger,portable SAM,Missiles,1986,700,1996,0.08,0.08,56.0
+16985,26087,Turkey,Stinger,portable SAM,Missiles,1986,700,1997,0.08,0.08,56.0
+16986,26087,Turkey,Stinger,portable SAM,Missiles,1986,600,1998,0.08,0.08,48.0
+16987,26087,Turkey,Stinger,portable SAM,Missiles,1986,300,1999,0.08,0.08,24.0
+16988,26087,Turkey,Stinger,portable SAM,Missiles,1986,250,2000,0.08,0.08,20.0
+16989,26087,Turkey,Stinger,portable SAM,Missiles,1986,200,2001,0.08,0.08,16.0
+16990,26087,Turkey,Stinger,portable SAM,Missiles,1986,200,2002,0.08,0.08,16.0
+16991,26087,Turkey,Stinger,portable SAM,Missiles,1986,200,2003,0.08,0.08,16.0
+16992,28132,Turkey,F-16C Block-50,FGA aircraft,Aircraft,2007,6,2011,31.0,31.0,186.0
+16993,28132,Turkey,F-16C Block-50,FGA aircraft,Aircraft,2007,24,2012,31.0,31.0,744.0
+16998,52739,Turkey,aircraft engine 1001-2000,aircraft engine,Engines,2010,18,2014,0.5,0.5,9.0
+16999,64076,Turkey,JDAM,guided bomb,Missiles,2018,300,2019,0.02,0.02,6.0
+17000,64076,Turkey,JDAM,guided bomb,Missiles,2018,300,2020,0.02,0.02,6.0
+17001,64076,Turkey,JDAM,guided bomb,Missiles,2018,58,2021,0.02,0.02,1.16
+17020,20329,Turkey,C-130B Hercules,transport aircraft,Aircraft,1991,3,1991,23.0,9.2,27.6
+17021,20329,Turkey,C-130B Hercules,transport aircraft,Aircraft,1991,2,1992,23.0,9.2,18.4
+17022,20328,Turkey,F-4E Phantom-2,FGA aircraft,Aircraft,1991,5,1991,25.0,10.0,50.0
+17023,20328,Turkey,F-4E Phantom-2,FGA aircraft,Aircraft,1991,29,1992,25.0,10.0,290.0
+17024,20328,Turkey,F-4E Phantom-2,FGA aircraft,Aircraft,1991,6,1993,25.0,10.0,60.0
+17027,21901,Turkey,KC-135,tanker/transport aircraft,Aircraft,1994,3,1997,60.0,39.6,118.8
+17028,21901,Turkey,KC-135,tanker/transport aircraft,Aircraft,1994,4,1998,60.0,39.6,158.4
+17029,22852,Turkey,Perry,frigate,Ships,1995,3,1998,300.0,120.0,360.0
+17030,24062,Turkey,Blindfire,fire-control radar,Sensors,1995,13,1996,2.5,1.0,13.0
+17031,24063,Turkey,Rapier-1,SAM,Missiles,1995,515,1996,0.1,0.1,51.5
+17032,24064,Turkey,Rapier SAMS,SAM system,Air-defence systems,1995,14,1996,7.0,2.8,39.2
+17033,25576,Turkey,SM-1MR,SAM,Missiles,1996,30,1998,0.25,0.1,3.0
+17034,25576,Turkey,SM-1MR,SAM,Missiles,1996,55,1999,0.25,0.1,5.5
+17035,25576,Turkey,SM-1MR,SAM,Missiles,1996,8,2000,0.25,0.1,0.8
+17036,25576,Turkey,SM-1MR,SAM,Missiles,1996,57,2002,0.25,0.1,5.7
+17037,25576,Turkey,SM-1MR,SAM,Missiles,1996,125,2001,0.25,0.1,12.5
+17038,25576,Turkey,SM-1MR,SAM,Missiles,1996,125,2003,0.25,0.1,12.5
+17039,27596,Turkey,AIM-7E,long-range air-to-air missile,Missiles,1995,122,1995,0.15,0.15,18.3
+17040,27596,Turkey,AIM-7E,long-range air-to-air missile,Missiles,1995,4,1996,0.15,0.15,0.6
+17044,31090,Turkey,MIM-23B,SAM,Missiles,2002,175,2005,0.17,0.07,11.9
+17048,35759,Turkey,M-578,armoured recovery vehicle,Armoured vehicles,1998,25,1999,0.36,0.14,3.6
+17049,39916,Turkey,JDAM,guided bomb,Missiles,2005,149,2008,0.02,0.02,2.98
+17050,39916,Turkey,JDAM,guided bomb,Missiles,2005,149,2009,0.02,0.02,2.98
+17051,39916,Turkey,JDAM,guided bomb,Missiles,2005,100,2007,0.02,0.02,2.0
+17052,50560,Turkey,AAQ-33 Sniper ATP,aircraft electro-optical system,Sensors,2009,12,2011,1.0,1.0,12.0
+17053,50560,Turkey,AAQ-33 Sniper ATP,aircraft electro-optical system,Sensors,2009,18,2012,1.0,1.0,18.0
+17054,50561,Turkey,AAQ-13 LANTIRN,combat aircraft radar,Sensors,2009,12,2011,1.0,1.0,12.0
+17055,50561,Turkey,AAQ-13 LANTIRN,combat aircraft radar,Sensors,2009,18,2012,1.0,1.0,18.0
+17056,51245,Turkey,Harpoon Block-2,anti-ship/land-attack missile,Missiles,2008,25,2011,1.0,1.0,25.0
+17057,51297,Turkey,Cessna-180 Skywagon,light aircraft,Aircraft,2009,31,2009,0.18,0.18,5.58
+17058,51297,Turkey,Cessna-180 Skywagon,light aircraft,Aircraft,2009,15,2010,0.18,0.18,2.7
+17059,63719,Turkey,vehicle engine 301-400,vehicle engine,Engines,2018,47,2019,0.05,0.05,2.35
+17060,63719,Turkey,vehicle engine 301-400,vehicle engine,Engines,2018,10,2020,0.05,0.05,0.5
+17061,51563,Turkey,CBU-97,guided bomb,Missiles,2006,50,2007,0.15,0.15,7.5
+17062,51563,Turkey,CBU-97,guided bomb,Missiles,2006,50,2008,0.15,0.15,7.5
+17063,54284,Turkey,Stinger,portable SAM,Missiles,2011,90,2013,0.08,0.08,7.2
+17064,4487,Turkey,Bell-205A-1,helicopter,Aircraft,1988,5,1991,2.62,2.62,13.1
+17065,4487,Turkey,Bell-205A-1,helicopter,Aircraft,1988,5,1992,2.62,2.62,13.1
+17066,4487,Turkey,Bell-205A-1,helicopter,Aircraft,1988,5,1993,2.62,2.62,13.1
+17067,18998,Turkey,Bell-205A-1,helicopter,Aircraft,1985,5,1990,2.62,2.62,13.1
+17070,57677,Turkey,AIM-120C AMRAAM,long-range air-to-air missile,Missiles,2014,36,2016,0.6,0.6,21.6
+17071,57677,Turkey,AIM-120C AMRAAM,long-range air-to-air missile,Missiles,2014,36,2017,0.6,0.6,21.6
+17072,57677,Turkey,AIM-120C AMRAAM,long-range air-to-air missile,Missiles,2014,36,2018,0.6,0.6,21.6
+17073,57677,Turkey,AIM-120C AMRAAM,long-range air-to-air missile,Missiles,2014,37,2019,0.6,0.6,22.2
+17075,25988,Turkey,SH-60B Seahawk,anti-submarine helicopter,Aircraft,1998,8,2002,17.0,17.0,136.0
+17076,28133,Turkey,Perry,frigate,Ships,1998,1,1999,300.0,120.0,120.0
+17077,28133,Turkey,Perry,frigate,Ships,1998,1,2000,300.0,120.0,120.0
+17078,50558,Turkey,AIM-120C AMRAAM,long-range air-to-air missile,Missiles,2008,25,2013,0.6,0.6,15.0
+17079,50558,Turkey,AIM-120C AMRAAM,long-range air-to-air missile,Missiles,2008,82,2014,0.6,0.6,49.2
+17080,52188,Turkey,AH-1W,combat helicopter,Aircraft,2011,3,2012,11.5,4.6,13.8
+17081,53508,Turkey,vehicle engine 301-400,vehicle engine,Engines,2009,100,2014,0.05,0.05,5.0
+17082,53508,Turkey,vehicle engine 301-400,vehicle engine,Engines,2009,50,2012,0.05,0.05,2.5
+17083,53508,Turkey,vehicle engine 301-400,vehicle engine,Engines,2009,128,2011,0.05,0.05,6.4
+17084,53508,Turkey,vehicle engine 301-400,vehicle engine,Engines,2009,100,2010,0.05,0.05,5.0
+17085,53508,Turkey,vehicle engine 301-400,vehicle engine,Engines,2009,90,2015,0.05,0.05,4.5
+17086,59326,Turkey,JDAM,guided bomb,Missiles,2015,650,2017,0.02,0.02,13.0
+17087,59326,Turkey,JDAM,guided bomb,Missiles,2015,650,2018,0.02,0.02,13.0
+17088,56904,Turkey,DB-110,aircraft reconnaissance system,Sensors,2013,4,2014,4.0,4.0,16.0
+17194,17511,Turkey,AIM-7F Sparrow,long-range air-to-air missile,Missiles,1983,45,1990,0.16,0.16,7.2
+17204,18615,Turkey,M-270 MLRS,multiple rocket launcher,Artillery,1988,6,1992,1.2,1.2,7.2
+17206,18692,Turkey,TPS-77,air-search radar,Sensors,1992,1,1994,11.0,11.0,11.0
+17207,18692,Turkey,TPS-77,air-search radar,Sensors,1992,1,1995,11.0,11.0,11.0
+17212,19868,Turkey,AIM-9M,short-range air-to-air missile,Missiles,1990,100,1993,0.12,0.12,12.0
+17213,19868,Turkey,AIM-9M,short-range air-to-air missile,Missiles,1990,100,1994,0.12,0.12,12.0
+17214,19868,Turkey,AIM-9M,short-range air-to-air missile,Missiles,1990,110,1995,0.12,0.12,13.2
+17215,20598,Turkey,Harpoon Block-1,anti-ship missile,Missiles,1990,22,1995,0.9,0.9,19.8
+17216,20598,Turkey,Harpoon Block-1,anti-ship missile,Missiles,1990,18,1996,0.9,0.9,16.2
+17217,20324,Turkey,AGM-88 HARM,anti-radar missile,Missiles,1993,25,1994,0.25,0.25,6.25
+17218,20324,Turkey,AGM-88 HARM,anti-radar missile,Missiles,1993,75,1995,0.25,0.25,18.75
+17219,20325,Turkey,Stinger,portable SAM,Missiles,1991,469,1992,0.08,0.08,37.52
+17220,20419,Turkey,TPS-77,air-search radar,Sensors,1991,1,1993,11.0,11.0,11.0
+17221,20548,Turkey,M-110A2 203mm,self-propelled gun,Artillery,1991,3,1993,1.1,0.44,1.32
+17222,20548,Turkey,M-110A2 203mm,self-propelled gun,Artillery,1991,69,1992,1.1,0.44,30.36
+17223,20609,Turkey,AGM-65 Maverick,air-to-surface missile,Missiles,1991,91,1993,0.15,0.15,13.65
+17224,20609,Turkey,AGM-65 Maverick,air-to-surface missile,Missiles,1991,92,1994,0.15,0.15,13.8
+17225,20609,Turkey,AGM-65 Maverick,air-to-surface missile,Missiles,1991,91,1995,0.15,0.15,13.65
+17226,20707,Turkey,AIM-120B AMRAAM,long-range air-to-air missile,Missiles,1993,38,1999,0.4,0.4,15.2
+17227,20707,Turkey,AIM-120B AMRAAM,long-range air-to-air missile,Missiles,1993,50,1997,0.4,0.4,20.0
+17228,20707,Turkey,AIM-120B AMRAAM,long-range air-to-air missile,Missiles,1993,50,1998,0.4,0.4,20.0
+17229,20709,Turkey,TPQ-36,artillery locating radar,Sensors,1992,2,1996,3.0,3.0,6.0
+17230,20709,Turkey,TPQ-36,artillery locating radar,Sensors,1992,2,1995,3.0,3.0,6.0
+17231,20709,Turkey,TPQ-36,artillery locating radar,Sensors,1992,1,1997,3.0,3.0,3.0
+17232,20716,Turkey,R-22,light helicopter,Aircraft,1991,10,1992,0.13,0.13,1.3
+17233,20714,Turkey,S-70L Black Hawk,transport helicopter,Aircraft,1999,20,1999,7.25,7.25,145.0
+17234,20714,Turkey,S-70L Black Hawk,transport helicopter,Aircraft,1999,12,2002,7.25,7.25,87.0
+17235,20714,Turkey,S-70L Black Hawk,transport helicopter,Aircraft,1999,12,2000,7.25,7.25,87.0
+17236,20714,Turkey,S-70L Black Hawk,transport helicopter,Aircraft,1999,6,2001,7.25,7.25,43.5
+17239,21376,Turkey,Harpoon Block-1,anti-ship missile,Missiles,1993,32,1993,0.9,0.9,28.8
+17240,21378,Turkey,T-38,trainer aircraft,Aircraft,1991,3,1993,3.3,1.32,3.96
+17241,21379,Turkey,T-38,trainer aircraft,Aircraft,1992,40,1993,3.3,1.32,52.8
+17242,21748,Turkey,Harpoon Block-1,anti-ship missile,Missiles,1993,20,1999,0.9,0.9,18.0
+17243,21748,Turkey,Harpoon Block-1,anti-ship missile,Missiles,1993,20,2000,0.9,0.9,18.0
+17244,21748,Turkey,Harpoon Block-1,anti-ship missile,Missiles,1993,5,2001,0.9,0.9,4.5
+17245,21748,Turkey,Harpoon Block-1,anti-ship missile,Missiles,1993,5,1997,0.9,0.9,4.5
+17248,21749,Turkey,AIM-9M,short-range air-to-air missile,Missiles,1992,100,1996,0.12,0.12,12.0
+17249,21749,Turkey,AIM-9M,short-range air-to-air missile,Missiles,1992,100,1997,0.12,0.12,12.0
+17250,21902,Turkey,Harpoon Block-1,anti-ship missile,Missiles,1993,32,1994,0.9,0.9,28.8
+17251,22522,Turkey,Harpoon Block-1,anti-ship missile,Missiles,1991,15,1996,0.9,0.9,13.5
+17252,22522,Turkey,Harpoon Block-1,anti-ship missile,Missiles,1991,15,1997,0.9,0.9,13.5
+17253,22645,Turkey,Mk-45 127mm,naval gun,Naval weapons,1990,1,1996,5.25,5.25,5.25
+17254,22645,Turkey,Mk-45 127mm,naval gun,Naval weapons,1990,1,1995,5.25,5.25,5.25
+17256,23382,Turkey,AIM-9M,short-range air-to-air missile,Missiles,1994,200,1998,0.12,0.12,24.0
+17257,23382,Turkey,AIM-9M,short-range air-to-air missile,Missiles,1994,300,1999,0.12,0.12,36.0
+17258,23384,Turkey,Harpoon Block-1,anti-ship missile,Missiles,1995,16,2002,0.9,0.9,14.4
+17259,23393,Turkey,AIM-7P,long-range air-to-air missile,Missiles,1994,5,1996,0.2,0.2,1.0
+17260,23393,Turkey,AIM-7P,long-range air-to-air missile,Missiles,1994,10,1997,0.2,0.2,2.0
+17261,23393,Turkey,AIM-7P,long-range air-to-air missile,Missiles,1994,10,1998,0.2,0.2,2.0
+17262,23393,Turkey,AIM-7P,long-range air-to-air missile,Missiles,1994,10,1999,0.2,0.2,2.0
+17263,23393,Turkey,AIM-7P,long-range air-to-air missile,Missiles,1994,5,2000,0.2,0.2,1.0
+17265,23907,Turkey,ATACMS-1,surface-to-surface missile,Missiles,1996,72,1998,1.4,1.4,100.8
+17266,23936,Turkey,Mk-45 127mm,naval gun,Naval weapons,1994,1,2000,5.25,5.25,5.25
+17267,23936,Turkey,Mk-45 127mm,naval gun,Naval weapons,1994,1,1998,5.25,5.25,5.25
+17275,24384,Turkey,Dragoon,APC,Armoured vehicles,1991,140,1999,0.3,0.3,42.0
+17276,24384,Turkey,Dragoon,APC,Armoured vehicles,1991,10,1997,0.3,0.3,3.0
+17277,24604,Turkey,Harpoon Block-1,anti-ship missile,Missiles,1993,16,1998,0.9,0.9,14.4
+17278,24604,Turkey,Harpoon Block-1,anti-ship missile,Missiles,1993,17,2000,0.9,0.9,15.3
+17279,24604,Turkey,Harpoon Block-1,anti-ship missile,Missiles,1993,17,1999,0.9,0.9,15.3
+17282,24995,Turkey,AGM-114 Hellfire-2,anti-tank/air-to-surface missile,Missiles,1999,10,2000,0.05,0.05,0.5
+17283,24995,Turkey,AGM-114 Hellfire-2,anti-tank/air-to-surface missile,Missiles,1999,74,2001,0.05,0.05,3.7
+17310,25726,Turkey,Gulfstream-4,light transport aircraft,Aircraft,1990,1,1993,23.0,23.0,23.0
+17311,25726,Turkey,Gulfstream-4,light transport aircraft,Aircraft,1990,1,1991,23.0,23.0,23.0
+17312,25726,Turkey,Gulfstream-4,light transport aircraft,Aircraft,1990,1,1992,23.0,23.0,23.0
+17313,27597,Turkey,TOW,anti-tank missile,Missiles,1995,686,1996,0.01,0.01,6.86
+17314,28612,Turkey,S-70L Black Hawk,transport helicopter,Aircraft,2003,2,2004,7.25,7.25,14.5
+17315,28786,Turkey,Gnat-750,UAV,Aircraft,1994,6,1995,0.2,0.2,1.2
+17317,29112,Turkey,MX-7,light aircraft,Aircraft,1993,1,1993,0.1,0.1,0.1
+17318,29234,Turkey,AGM-65 Maverick,air-to-surface missile,Missiles,1993,30,1996,0.15,0.15,4.5
+17319,29234,Turkey,AGM-65 Maverick,air-to-surface missile,Missiles,1993,50,1995,0.15,0.15,7.5
+17320,29410,Turkey,I-HAWK SAMS,SAM system,Air-defence systems,2002,8,2005,35.0,23.1,184.8
+17324,30418,Turkey,Perry,frigate,Ships,2000,1,2000,300.0,120.0,120.0
+17325,31089,Turkey,MPQ-64 Sentinel,air-search radar,Sensors,2002,8,2005,5.0,5.0,40.0
+17326,31895,Turkey,Perry,frigate,Ships,2001,1,2002,300.0,120.0,120.0
+17328,32717,Turkey,Phalanx,naval gun,Naval weapons,1993,1,1995,7.0,7.0,7.0
+17329,32944,Turkey,AGM-114 Hellfire-2,anti-tank/air-to-surface missile,Missiles,2000,36,2001,0.05,0.05,1.8
+17330,32944,Turkey,AGM-114 Hellfire-2,anti-tank/air-to-surface missile,Missiles,2000,36,2002,0.05,0.05,1.8
+17337,32976,Turkey,Perry,frigate,Ships,2002,1,2003,300.0,120.0,120.0
+17338,33555,Turkey,AGM-114 Hellfire-2,anti-tank/air-to-surface missile,Missiles,2002,72,2003,0.05,0.05,3.6
+17339,33555,Turkey,AGM-114 Hellfire-2,anti-tank/air-to-surface missile,Missiles,2002,72,2004,0.05,0.05,3.6
+17340,33856,Turkey,Gnat-750,UAV,Aircraft,1998,2,1998,0.2,0.2,0.4
+17341,34144,Turkey,MPQ-64 Sentinel,air-search radar,Sensors,1997,1,1999,5.0,5.0,5.0
+17342,34144,Turkey,MPQ-64 Sentinel,air-search radar,Sensors,1997,2,2000,5.0,5.0,10.0
+17343,34144,Turkey,MPQ-64 Sentinel,air-search radar,Sensors,1997,2,2001,5.0,5.0,10.0
+17348,35448,Turkey,AIM-9X,long-range air-to-air missile,Missiles,2006,127,2008,0.18,0.18,22.86
+17349,36008,Turkey,RIM-116A RAM,SAM,Missiles,2007,25,2011,0.14,0.14,3.5
+17350,36008,Turkey,RIM-116A RAM,SAM,Missiles,2007,13,2013,0.14,0.14,1.82
+17351,36008,Turkey,RIM-116A RAM,SAM,Missiles,2007,13,2017,0.14,0.14,1.82
+17352,36008,Turkey,RIM-116A RAM,SAM,Missiles,2007,12,2018,0.14,0.14,1.68
+17353,36008,Turkey,RIM-116A RAM,SAM,Missiles,2007,12,2016,0.14,0.14,1.68
+17354,36008,Turkey,RIM-116A RAM,SAM,Missiles,2007,12,2014,0.14,0.14,1.68
+17355,36008,Turkey,RIM-116A RAM,SAM,Missiles,2007,13,2015,0.14,0.14,1.82
+17356,36008,Turkey,RIM-116A RAM,SAM,Missiles,2007,12,2012,0.14,0.14,1.68
+17357,36008,Turkey,RIM-116A RAM,SAM,Missiles,2007,13,2019,0.14,0.14,1.82
+17358,36075,Turkey,AGM-154 JSOW,guided glide bomb,Missiles,2006,52,2008,0.4,0.4,20.8
+17359,36075,Turkey,AGM-154 JSOW,guided glide bomb,Missiles,2006,52,2007,0.4,0.4,20.8
+17360,36138,Turkey,Paveway,guided bomb,Missiles,1995,100,1996,0.02,0.02,2.0
+17373,37692,Turkey,aircraft engine 1001-2000,aircraft engine,Engines,1998,6,2014,0.5,0.5,3.0
+17374,37692,Turkey,aircraft engine 1001-2000,aircraft engine,Engines,1998,12,2013,0.5,0.5,6.0
+17375,37850,Turkey,vehicle engine 601-800,vehicle engine,Engines,1982,220,1991,0.11,0.11,24.2
+17376,37850,Turkey,vehicle engine 601-800,vehicle engine,Engines,1982,220,1990,0.11,0.11,24.2
+17384,37850,Turkey,vehicle engine 601-800,vehicle engine,Engines,1982,220,1992,0.11,0.11,24.2
+17385,37850,Turkey,vehicle engine 601-800,vehicle engine,Engines,1982,150,1993,0.11,0.11,16.5
+17386,37815,Turkey,aircraft engine 1001-2000,aircraft engine,Engines,1991,6,1992,0.5,0.5,3.0
+17387,37815,Turkey,aircraft engine 1001-2000,aircraft engine,Engines,1991,12,1993,0.5,0.5,6.0
+17388,37815,Turkey,aircraft engine 1001-2000,aircraft engine,Engines,1991,12,1994,0.5,0.5,6.0
+17389,37815,Turkey,aircraft engine 1001-2000,aircraft engine,Engines,1991,18,1995,0.5,0.5,9.0
+17390,37815,Turkey,aircraft engine 1001-2000,aircraft engine,Engines,1991,18,1996,0.5,0.5,9.0
+17391,37815,Turkey,aircraft engine 1001-2000,aircraft engine,Engines,1991,20,1997,0.5,0.5,10.0
+17392,37815,Turkey,aircraft engine 1001-2000,aircraft engine,Engines,1991,18,1998,0.5,0.5,9.0
+17396,38053,Turkey,LM-2500 (30001-35000),gas turbine,Engines,1990,2,2000,7.0,7.0,14.0
+17397,38053,Turkey,LM-2500 (30001-35000),gas turbine,Engines,1990,2,1996,7.0,7.0,14.0
+17398,38053,Turkey,LM-2500 (30001-35000),gas turbine,Engines,1990,2,1998,7.0,7.0,14.0
+17399,38053,Turkey,LM-2500 (30001-35000),gas turbine,Engines,1990,2,1995,7.0,7.0,14.0
+17400,38055,Turkey,DE-1160,anti-submarine sonar,Sensors,1990,1,1995,5.0,5.0,5.0
+17401,38055,Turkey,DE-1160,anti-submarine sonar,Sensors,1990,1,1996,5.0,5.0,5.0
+17402,38055,Turkey,DE-1160,anti-submarine sonar,Sensors,1990,1,1998,5.0,5.0,5.0
+17403,38055,Turkey,DE-1160,anti-submarine sonar,Sensors,1990,1,2000,5.0,5.0,5.0
+17404,63859,Turkey,vehicle engine 301-400,vehicle engine,Engines,2017,200,2018,0.05,0.05,10.0
+17405,63859,Turkey,vehicle engine 301-400,vehicle engine,Engines,2017,200,2019,0.05,0.05,10.0
+17406,63859,Turkey,vehicle engine 301-400,vehicle engine,Engines,2017,129,2020,0.05,0.05,6.45
+17414,67532,Turkey,vehicle engine 301-400,vehicle engine,Engines,2018,212,2021,0.05,0.05,10.6
+17415,67532,Turkey,vehicle engine 301-400,vehicle engine,Engines,2018,250,2020,0.05,0.05,12.5
+17416,67532,Turkey,vehicle engine 301-400,vehicle engine,Engines,2018,250,2019,0.05,0.05,12.5
+17417,35552,Turkey,S-70L Black Hawk,transport helicopter,Aircraft,2014,9,2024,7.25,7.25,65.25
+17418,35552,Turkey,S-70L Black Hawk,transport helicopter,Aircraft,2014,9,2023,7.25,7.25,65.25
+17419,35552,Turkey,S-70L Black Hawk,transport helicopter,Aircraft,2014,3,2022,7.25,7.25,21.75
+17420,62318,Turkey,LM-2500 (30001-35000),gas turbine,Engines,2016,1,2024,7.0,7.0,7.0
+17421,29901,Turkey,AIFV-APC,APC,Armoured vehicles,2000,166,2003,0.3,0.3,49.8
+17422,29901,Turkey,AIFV-APC,APC,Armoured vehicles,2000,123,2002,0.3,0.3,36.9
+17423,29901,Turkey,AIFV-APC,APC,Armoured vehicles,2000,77,2001,0.3,0.3,23.1
+17424,29901,Turkey,AIFV-APC,APC,Armoured vehicles,2000,185,2004,0.3,0.3,55.5
+17427,20624,Turkey,M-60A3,tank,Armoured vehicles,1991,391,1992,2.1,0.84,328.44
+17428,20624,Turkey,M-60A3,tank,Armoured vehicles,1991,267,1993,2.1,0.84,224.28
+17429,20543,Turkey,M-60A1,tank,Armoured vehicles,1991,25,1992,1.8,0.72,18.0
+17430,20543,Turkey,M-60A1,tank,Armoured vehicles,1991,62,1994,1.8,0.72,44.64
+17431,20543,Turkey,M-60A1,tank,Armoured vehicles,1991,187,1993,1.8,0.72,134.64
+17432,30229,Turkey,B-737 AEW,airborne early-warning aircraft,Aircraft,2002,1,2015,250.0,250.0,250.0
+17433,30229,Turkey,B-737 AEW,airborne early-warning aircraft,Aircraft,2002,3,2014,250.0,250.0,750.0
+17434,20371,Turkey,M-113,APC,Armoured vehicles,1990,131,1993,0.25,0.1,13.1
+17435,20371,Turkey,M-113,APC,Armoured vehicles,1990,119,1992,0.25,0.1,11.9
+17436,56479,Turkey,vehicle engine 301-400,vehicle engine,Engines,2013,25,2015,0.05,0.05,1.25
+17437,56479,Turkey,vehicle engine 301-400,vehicle engine,Engines,2013,25,2014,0.05,0.05,1.25
 17438,63860,Turkmenistan,vehicle engine 301-400,vehicle engine,Engines,2015,28,2016,0.05,0.05,1.4
 17439,64676,Turkmenistan,F-124 (2850),turbofan,Engines,2019,12,2021,1.0,1.0,12.0
 17440,67128,Turkmenistan,vehicle engine 401-600,vehicle engine,Engines,2021,2,2021,0.08,0.08,0.16
 17441,64100,Turkmenistan,aircraft engine 4501-6000,aircraft engine,Engines,2019,4,2021,1.5,1.5,6.0
 17442,66018,Turkmenistan,ScanEagle,UAV,Aircraft,2020,2,2021,0.04,0.04,0.08
-17443,63420,UAE,AAQ-33 Sniper ATP,aircraft electro-optical system,Sensors,2020,10,2022,1.0,1.0,10.0
-17444,63420,UAE,AAQ-33 Sniper ATP,aircraft electro-optical system,Sensors,2020,15,2023,1.0,1.0,15.0
-17445,62598,UAE,Patriot-3 SAMS,SAM system,Air-defence systems,2018,1,2023,55.0,55.0,55.0
-17446,62598,UAE,Patriot-3 SAMS,SAM system,Air-defence systems,2018,1,2021,55.0,55.0,55.0
-17447,62598,UAE,Patriot-3 SAMS,SAM system,Air-defence systems,2018,2,2022,55.0,55.0,110.0
-17448,64377,UAE,MIM-104 PAC-2,SAM,Missiles,2019,35,2021,1.0,1.0,35.0
-17449,64377,UAE,MIM-104 PAC-2,SAM,Missiles,2019,55,2022,1.0,1.0,55.0
-17450,64377,UAE,MIM-104 PAC-2,SAM,Missiles,2019,60,2023,1.0,1.0,60.0
-17451,64810,UAE,AGM-114 Hellfire-2,anti-tank/air-to-surface missile,Missiles,2021,300,2022,0.05,0.05,15.0
-17452,64810,UAE,AGM-114 Hellfire-2,anti-tank/air-to-surface missile,Missiles,2021,400,2023,0.05,0.05,20.0
-17453,64810,UAE,AGM-114 Hellfire-2,anti-tank/air-to-surface missile,Missiles,2021,300,2024,0.05,0.05,15.0
-17454,40075,UAE,AGM-114L Hellfire,anti-tank missile,Missiles,2009,631,2012,0.07,0.07,44.17
-17455,40075,UAE,AGM-114L Hellfire,anti-tank missile,Missiles,2009,631,2013,0.07,0.07,44.17
-17456,61537,UAE,AAQ-33 Sniper ATP,aircraft electro-optical system,Sensors,2000,10,2007,1.0,1.0,10.0
-17457,61537,UAE,AAQ-33 Sniper ATP,aircraft electro-optical system,Sensors,2000,10,2006,1.0,1.0,10.0
-17458,61537,UAE,AAQ-33 Sniper ATP,aircraft electro-optical system,Sensors,2000,5,2004,1.0,1.0,5.0
-17459,61537,UAE,AAQ-33 Sniper ATP,aircraft electro-optical system,Sensors,2000,5,2008,1.0,1.0,5.0
-17460,61537,UAE,AAQ-33 Sniper ATP,aircraft electro-optical system,Sensors,2000,10,2005,1.0,1.0,10.0
-17461,40259,UAE,MIM-104 PAC-2,SAM,Missiles,2008,50,2012,1.0,1.0,50.0
-17462,40259,UAE,MIM-104 PAC-2,SAM,Missiles,2008,75,2013,1.0,1.0,75.0
-17463,40259,UAE,MIM-104 PAC-2,SAM,Missiles,2008,91,2014,1.0,1.0,91.0
-17464,52621,UAE,CH-47F,transport helicopter,Aircraft,2008,4,2010,20.0,20.0,80.0
-17465,51539,UAE,CH-47F,transport helicopter,Aircraft,2011,2,2012,20.0,20.0,40.0
-17466,51539,UAE,CH-47F,transport helicopter,Aircraft,2011,4,2013,20.0,20.0,80.0
-17467,51539,UAE,CH-47F,transport helicopter,Aircraft,2011,4,2014,20.0,20.0,80.0
-17468,51539,UAE,CH-47F,transport helicopter,Aircraft,2011,2,2015,20.0,20.0,40.0
-17469,27143,UAE,AIM-9M,short-range air-to-air missile,Missiles,2002,56,2005,0.12,0.12,6.72
-17470,27143,UAE,AIM-9M,short-range air-to-air missile,Missiles,2002,42,2004,0.12,0.12,5.04
-17471,27143,UAE,AIM-9M,short-range air-to-air missile,Missiles,2002,169,2006,0.12,0.12,20.28
-17472,39378,UAE,HIMARS,multiple rocket launcher,Artillery,2008,20,2013,1.1,1.1,22.0
-17473,66346,UAE,RIM-116C RAM-2B,SAM,Missiles,2019,30,2023,0.25,0.25,7.5
-17474,66346,UAE,RIM-116C RAM-2B,SAM,Missiles,2019,30,2024,0.25,0.25,7.5
-17475,57509,UAE,Bell-407,light helicopter,Aircraft,2013,9,2014,1.1,1.1,9.9
-17476,57509,UAE,Bell-407,light helicopter,Aircraft,2013,15,2015,1.1,1.1,16.5
-17477,57509,UAE,Bell-407,light helicopter,Aircraft,2013,6,2016,1.1,1.1,6.6
-17478,54280,UAE,M-ATV,APC,Armoured vehicles,2012,750,2013,0.25,0.25,187.5
-17479,67407,UAE,MaxxPro,APC,Armoured vehicles,2023,20,2024,0.32,0.21,4.22
-17480,33452,UAE,ESSM,SAM,Missiles,2006,96,2015,0.4,0.4,38.4
-17481,36865,UAE,Talon LGR,air-to-surface missile,Missiles,2013,500,2015,0.01,0.01,5.0
-17482,36865,UAE,Talon LGR,air-to-surface missile,Missiles,2013,500,2016,0.01,0.01,5.0
-17483,36865,UAE,Talon LGR,air-to-surface missile,Missiles,2013,500,2017,0.01,0.01,5.0
-17484,36865,UAE,Talon LGR,air-to-surface missile,Missiles,2013,500,2018,0.01,0.01,5.0
-17485,61721,UAE,AIM-9X,long-range air-to-air missile,Missiles,2018,100,2019,0.18,0.18,18.0
-17486,61721,UAE,AIM-9X,long-range air-to-air missile,Missiles,2018,100,2020,0.18,0.18,18.0
-17487,61721,UAE,AIM-9X,long-range air-to-air missile,Missiles,2018,100,2021,0.18,0.18,18.0
-17488,34641,UAE,AH-64D Apache Longbow,combat helicopter,Aircraft,2007,18,2009,15.5,15.5,279.0
-17489,34641,UAE,AH-64D Apache Longbow,combat helicopter,Aircraft,2007,12,2008,15.5,15.5,186.0
-17490,21144,UAE,TPS-70,air-search radar,Sensors,1993,1,1995,11.0,11.0,11.0
-17491,57061,UAE,C-17,heavy transport aircraft,Aircraft,2015,2,2015,140.0,140.0,280.0
-17493,39380,UAE,GMLRS,guided rocket,Missiles,2008,780,2011,0.08,0.08,62.4
-17494,39380,UAE,GMLRS,guided rocket,Missiles,2008,780,2012,0.08,0.08,62.4
-17495,52611,UAE,ATACMS-1A,surface-to-surface missile,Missiles,2011,100,2013,2.0,2.0,200.0
-17496,58732,UAE,M-ATV,APC,Armoured vehicles,2014,44,2016,0.25,0.1,4.4
-17497,62666,UAE,FGM-148 Javelin,anti-tank missile,Missiles,2020,331,2020,0.03,0.03,9.93
-17498,59722,UAE,AGM-114 Hellfire-2,anti-tank/air-to-surface missile,Missiles,2017,1000,2018,0.05,0.05,50.0
-17499,55800,UAE,RIM-116A RAM,SAM,Missiles,2016,50,2018,0.14,0.14,7.0
-17500,55800,UAE,RIM-116A RAM,SAM,Missiles,2016,75,2019,0.14,0.14,10.5
-17501,55800,UAE,RIM-116A RAM,SAM,Missiles,2016,75,2020,0.14,0.14,10.5
-17502,59875,UAE,JDAM,guided bomb,Missiles,2017,1500,2018,0.02,0.02,30.0
-17503,59234,UAE,JDAM,guided bomb,Missiles,2016,1750,2017,0.02,0.02,35.0
-17504,59234,UAE,JDAM,guided bomb,Missiles,2016,1754,2018,0.02,0.02,35.08
-17505,58406,UAE,MaxxPro,APC,Armoured vehicles,2014,785,2018,0.32,0.32,251.2
-17506,58406,UAE,MaxxPro,APC,Armoured vehicles,2014,300,2017,0.32,0.32,96.0
-17507,60604,UAE,vehicle engine 401-600,vehicle engine,Engines,2015,12,2019,0.08,0.08,0.96
-17508,60604,UAE,vehicle engine 401-600,vehicle engine,Engines,2015,30,2017,0.08,0.08,2.4
-17509,60604,UAE,vehicle engine 401-600,vehicle engine,Engines,2015,30,2018,0.08,0.08,2.4
-17510,60604,UAE,vehicle engine 401-600,vehicle engine,Engines,2015,28,2016,0.08,0.08,2.24
-17511,60896,UAE,MIM-104 PAC-2,SAM,Missiles,2017,50,2019,1.0,1.0,50.0
-17512,60896,UAE,MIM-104 PAC-2,SAM,Missiles,2017,50,2020,1.0,1.0,50.0
-17513,50551,UAE,THAAD MI,ABM missile,Missiles,2012,50,2018,4.0,4.0,200.0
-17514,50551,UAE,THAAD MI,ABM missile,Missiles,2012,50,2016,4.0,4.0,200.0
-17515,50551,UAE,THAAD MI,ABM missile,Missiles,2012,50,2017,4.0,4.0,200.0
-17516,50551,UAE,THAAD MI,ABM missile,Missiles,2012,21,2019,4.0,4.0,84.0
-17517,50551,UAE,THAAD MI,ABM missile,Missiles,2012,21,2015,4.0,4.0,84.0
-17518,62774,UAE,ScanEagle,UAV,Aircraft,2019,5,2020,0.04,0.04,0.2
-17519,52105,UAE,Predator UAV,UAV,Aircraft,2014,10,2017,2.0,2.0,20.0
-17520,58407,UAE,Caiman,APC,Armoured vehicles,2014,488,2016,0.25,0.1,48.8
-17521,58407,UAE,Caiman,APC,Armoured vehicles,2014,23,2017,0.25,0.1,2.3
-17522,58407,UAE,Caiman,APC,Armoured vehicles,2014,31,2018,0.25,0.1,3.1
-17523,58407,UAE,Caiman,APC,Armoured vehicles,2014,11,2019,0.25,0.1,1.1
-17524,61456,UAE,DB-110,aircraft reconnaissance system,Sensors,2017,1,2018,4.0,4.0,4.0
-17525,61456,UAE,DB-110,aircraft reconnaissance system,Sensors,2017,1,2019,4.0,4.0,4.0
-17526,61237,UAE,vehicle engine 401-600,vehicle engine,Engines,2017,38,2022,0.08,0.08,3.04
-17527,61237,UAE,vehicle engine 401-600,vehicle engine,Engines,2017,79,2020,0.08,0.08,6.32
-17528,61237,UAE,vehicle engine 401-600,vehicle engine,Engines,2017,101,2021,0.08,0.08,8.08
-17529,61237,UAE,vehicle engine 401-600,vehicle engine,Engines,2017,180,2023,0.08,0.08,14.4
-17530,61237,UAE,vehicle engine 401-600,vehicle engine,Engines,2017,55,2019,0.08,0.08,4.4
-17531,39909,UAE,CBU-97,guided bomb,Missiles,2007,50,2008,0.15,0.15,7.5
-17532,39909,UAE,CBU-97,guided bomb,Missiles,2007,50,2009,0.15,0.15,7.5
-17533,39913,UAE,JDAM,guided bomb,Missiles,2003,202,2006,0.02,0.02,4.04
-17534,40150,UAE,Paveway,guided bomb,Missiles,1998,250,2000,0.02,0.02,5.0
-17535,40150,UAE,Paveway,guided bomb,Missiles,1998,250,1999,0.02,0.02,5.0
-17536,40150,UAE,Paveway,guided bomb,Missiles,1998,273,2004,0.02,0.02,5.46
-17537,40150,UAE,Paveway,guided bomb,Missiles,1998,300,2003,0.02,0.02,6.0
-17538,40150,UAE,Paveway,guided bomb,Missiles,1998,300,2002,0.02,0.02,6.0
-17539,40150,UAE,Paveway,guided bomb,Missiles,1998,300,2001,0.02,0.02,6.0
-17540,40255,UAE,Paveway,guided bomb,Missiles,2008,300,2012,0.02,0.02,6.0
-17541,40255,UAE,Paveway,guided bomb,Missiles,2008,100,2010,0.02,0.02,2.0
-17542,40255,UAE,Paveway,guided bomb,Missiles,2008,300,2011,0.02,0.02,6.0
-17543,40255,UAE,Paveway,guided bomb,Missiles,2008,238,2013,0.02,0.02,4.76
-17544,40256,UAE,JDAM,guided bomb,Missiles,2008,150,2011,0.02,0.02,3.0
-17545,40256,UAE,JDAM,guided bomb,Missiles,2008,150,2012,0.02,0.02,3.0
-17546,50544,UAE,S-70L Black Hawk,transport helicopter,Aircraft,2010,15,2011,7.25,7.25,108.75
-17547,50544,UAE,S-70L Black Hawk,transport helicopter,Aircraft,2010,11,2012,7.25,7.25,79.75
-17548,50913,UAE,S-70L Black Hawk,transport helicopter,Aircraft,2008,5,2009,7.25,7.25,36.25
-17549,50913,UAE,S-70L Black Hawk,transport helicopter,Aircraft,2008,5,2010,7.25,7.25,36.25
-17550,50915,UAE,S-70L Black Hawk,transport helicopter,Aircraft,2009,7,2012,7.25,7.25,50.75
-17551,50915,UAE,S-70L Black Hawk,transport helicopter,Aircraft,2009,7,2013,7.25,7.25,50.75
-17552,51635,UAE,AGM-65 Maverick,air-to-surface missile,Missiles,2010,175,2011,0.15,0.15,26.25
-17553,51635,UAE,AGM-65 Maverick,air-to-surface missile,Missiles,2010,175,2012,0.15,0.15,26.25
-17554,51635,UAE,AGM-65 Maverick,air-to-surface missile,Missiles,2010,150,2013,0.15,0.15,22.5
-17555,52517,UAE,APG-78 Longbow,combat helicopter radar,Sensors,2007,18,2009,3.0,3.0,54.0
-17556,52517,UAE,APG-78 Longbow,combat helicopter radar,Sensors,2007,12,2008,3.0,3.0,36.0
-17557,53478,UAE,GMLRS,guided rocket,Missiles,2015,390,2017,0.08,0.08,31.2
-17558,53559,UAE,M-ATV,APC,Armoured vehicles,2011,50,2011,0.25,0.25,12.5
-17559,54276,UAE,DB-110,aircraft reconnaissance system,Sensors,2011,6,2013,4.0,4.0,24.0
-17560,54446,UAE,CBU-97,guided bomb,Missiles,2010,125,2012,0.15,0.15,18.75
-17561,54446,UAE,CBU-97,guided bomb,Missiles,2010,125,2011,0.15,0.15,18.75
-17562,26001,UAE,F-16E,FGA aircraft,Aircraft,2000,10,2008,37.5,37.5,375.0
-17563,26001,UAE,F-16E,FGA aircraft,Aircraft,2000,8,2004,37.5,37.5,300.0
-17564,26001,UAE,F-16E,FGA aircraft,Aircraft,2000,30,2005,37.5,37.5,1125.0
-17565,26001,UAE,F-16E,FGA aircraft,Aircraft,2000,22,2006,37.5,37.5,825.0
-17566,26001,UAE,F-16E,FGA aircraft,Aircraft,2000,10,2007,37.5,37.5,375.0
-17567,35683,UAE,FGM-148 Javelin,anti-tank missile,Missiles,2008,500,2009,0.03,0.03,15.0
-17568,35683,UAE,FGM-148 Javelin,anti-tank missile,Missiles,2008,500,2010,0.03,0.03,15.0
-17569,36226,UAE,Cessna-208 Caravan,light transport aircraft,Aircraft,2005,6,2005,1.0,1.0,6.0
-17570,36226,UAE,Cessna-208 Caravan,light transport aircraft,Aircraft,2005,1,2007,1.0,1.0,1.0
-17571,36226,UAE,Cessna-208 Caravan,light transport aircraft,Aircraft,2005,1,2006,1.0,1.0,1.0
-17572,37041,UAE,aircraft engine 3001-4500,aircraft engine,Engines,2005,4,2010,1.1,1.1,4.4
-17573,37041,UAE,aircraft engine 3001-4500,aircraft engine,Engines,2005,6,2009,1.1,1.1,6.6
-17574,37041,UAE,aircraft engine 3001-4500,aircraft engine,Engines,2005,6,2006,1.1,1.1,6.6
-17575,39382,UAE,RIM-116A RAM,SAM,Missiles,2007,30,2011,0.14,0.14,4.2
-17576,39382,UAE,RIM-116A RAM,SAM,Missiles,2007,30,2013,0.14,0.14,4.2
-17577,39382,UAE,RIM-116A RAM,SAM,Missiles,2007,30,2012,0.14,0.14,4.2
-17578,39382,UAE,RIM-116A RAM,SAM,Missiles,2007,30,2015,0.14,0.14,4.2
-17579,39382,UAE,RIM-116A RAM,SAM,Missiles,2007,30,2016,0.14,0.14,4.2
-17580,40032,UAE,Dash-8,transport aircraft,Aircraft,2007,4,2007,9.0,3.6,14.4
-17581,40213,UAE,Patriot-3 SAMS,SAM system,Air-defence systems,2008,4,2013,55.0,55.0,220.0
-17582,40213,UAE,Patriot-3 SAMS,SAM system,Air-defence systems,2008,2,2012,55.0,55.0,110.0
-17583,40213,UAE,Patriot-3 SAMS,SAM system,Air-defence systems,2008,3,2014,55.0,55.0,165.0
-17584,40254,UAE,AIM-120C AMRAAM,long-range air-to-air missile,Missiles,2009,72,2013,0.6,0.6,43.2
-17585,40254,UAE,AIM-120C AMRAAM,long-range air-to-air missile,Missiles,2009,152,2014,0.6,0.6,91.2
-17586,50550,UAE,THAAD,ABM system,Air-defence systems,2011,1,2015,250.0,250.0,250.0
-17587,50550,UAE,THAAD,ABM system,Air-defence systems,2011,1,2016,250.0,250.0,250.0
-17588,50736,UAE,MIM-104 PAC-3,ABM missile,Missiles,2008,92,2012,0.8,0.8,73.6
-17589,50736,UAE,MIM-104 PAC-3,ABM missile,Missiles,2008,100,2013,0.8,0.8,80.0
-17590,50736,UAE,MIM-104 PAC-3,ABM missile,Missiles,2008,100,2014,0.8,0.8,80.0
-17591,50879,UAE,C-17,heavy transport aircraft,Aircraft,2009,4,2011,140.0,140.0,560.0
-17592,50879,UAE,C-17,heavy transport aircraft,Aircraft,2009,2,2012,140.0,140.0,280.0
-17593,57980,UAE,ATACMS-1A,surface-to-surface missile,Missiles,2015,50,2018,2.0,2.0,100.0
-17594,57980,UAE,ATACMS-1A,surface-to-surface missile,Missiles,2015,50,2019,2.0,2.0,100.0
-17595,52085,UAE,AT-802U -,ground-attack aircraft,Aircraft,2010,6,2011,4.9,4.9,29.4
-17596,52085,UAE,AT-802U -,ground-attack aircraft,Aircraft,2010,4,2010,4.9,4.9,19.6
-17597,52085,UAE,AT-802U -,ground-attack aircraft,Aircraft,2010,10,2012,4.9,4.9,49.0
-17598,52085,UAE,AT-802U -,ground-attack aircraft,Aircraft,2010,3,2013,4.9,4.9,14.7
-17599,52085,UAE,AT-802U -,ground-attack aircraft,Aircraft,2010,1,2014,4.9,4.9,4.9
-17600,53165,UAE,F-16E,FGA aircraft,Aircraft,2010,1,2012,37.5,37.5,37.5
-17601,57979,UAE,HIMARS,multiple rocket launcher,Artillery,2015,12,2018,1.1,1.1,13.2
-17617,17774,UAE,AIM-9L,short-range air-to-air missile,Missiles,1989,54,1990,0.11,0.11,5.94
-17620,20062,UAE,AH-64A Apache,combat helicopter,Aircraft,1991,6,1993,14.0,14.0,84.0
-17621,20062,UAE,AH-64A Apache,combat helicopter,Aircraft,1991,14,1994,14.0,14.0,196.0
-17622,20321,UAE,AGM-114 Hellfire,anti-tank missile,Missiles,1991,200,1993,0.04,0.04,8.0
-17623,20321,UAE,AGM-114 Hellfire,anti-tank missile,Missiles,1991,420,1994,0.04,0.04,16.8
-17624,21737,UAE,AGM-114 Hellfire,anti-tank missile,Missiles,1994,360,1996,0.04,0.04,14.4
-17625,21738,UAE,AH-64A Apache,combat helicopter,Aircraft,1994,10,1996,14.0,14.0,140.0
-17626,22848,UAE,TPS-63,air-search radar,Sensors,1993,1,1995,5.0,5.0,5.0
-17628,23843,UAE,M-198 155mm,towed gun,Artillery,1994,12,1995,0.85,0.85,10.2
-17630,25240,UAE,Harpoon Block-1,anti-ship missile,Missiles,1998,15,1998,0.9,0.9,13.5
-17631,25240,UAE,Harpoon Block-1,anti-ship missile,Missiles,1998,8,2000,0.9,0.9,7.2
-17632,25240,UAE,Harpoon Block-1,anti-ship missile,Missiles,1998,1,2001,0.9,0.9,0.9
-17633,25241,UAE,AIM-7M,long-range air-to-air missile,Missiles,1997,36,1998,0.18,0.18,6.48
-17634,25241,UAE,AIM-7M,long-range air-to-air missile,Missiles,1997,36,1999,0.18,0.18,6.48
-17635,27142,UAE,AIM-120B AMRAAM,long-range air-to-air missile,Missiles,2003,100,2004,0.4,0.4,40.0
-17636,27142,UAE,AIM-120B AMRAAM,long-range air-to-air missile,Missiles,2003,151,2005,0.4,0.4,60.4
-17637,27142,UAE,AIM-120B AMRAAM,long-range air-to-air missile,Missiles,2003,140,2006,0.4,0.4,56.0
-17638,27142,UAE,AIM-120B AMRAAM,long-range air-to-air missile,Missiles,2003,100,2007,0.4,0.4,40.0
-17639,27144,UAE,AGM-88 HARM,anti-radar missile,Missiles,2001,151,2006,0.25,0.25,37.75
-17640,27144,UAE,AGM-88 HARM,anti-radar missile,Missiles,2001,8,2007,0.25,0.25,2.0
-17641,27145,UAE,AGM-65 Maverick,air-to-surface missile,Missiles,2002,200,2003,0.15,0.15,30.0
-17642,27145,UAE,AGM-65 Maverick,air-to-surface missile,Missiles,2002,200,2004,0.15,0.15,30.0
-17643,27145,UAE,AGM-65 Maverick,air-to-surface missile,Missiles,2002,200,2005,0.15,0.15,30.0
-17644,27145,UAE,AGM-65 Maverick,air-to-surface missile,Missiles,2002,300,2006,0.15,0.15,45.0
-17645,27145,UAE,AGM-65 Maverick,air-to-surface missile,Missiles,2002,263,2007,0.15,0.15,39.45
-17646,27146,UAE,Harpoon Block-1,anti-ship missile,Missiles,2003,12,2005,0.9,0.9,10.8
-17647,29114,UAE,King Air,light transport aircraft,Aircraft,1996,2,1997,2.85,2.85,5.7
-17648,56574,UAE,GBU-39 SDB,guided glide bomb,Missiles,2014,1000,2018,0.02,0.02,20.0
-17649,56574,UAE,GBU-39 SDB,guided glide bomb,Missiles,2014,1000,2017,0.02,0.02,20.0
-17650,56574,UAE,GBU-39 SDB,guided glide bomb,Missiles,2014,1000,2016,0.02,0.02,20.0
-17651,56574,UAE,GBU-39 SDB,guided glide bomb,Missiles,2014,1000,2015,0.02,0.02,20.0
-17652,56574,UAE,GBU-39 SDB,guided glide bomb,Missiles,2014,1000,2019,0.02,0.02,20.0
-17653,33449,UAE,AGM-114 Hellfire-2,anti-tank/air-to-surface missile,Missiles,2002,49,2005,0.05,0.05,2.45
-17654,36606,UAE,Paveway,guided bomb,Missiles,2004,50,2005,0.02,0.02,1.0
-17655,37729,UAE,AGM-114L Hellfire,anti-tank missile,Missiles,2002,240,2005,0.07,0.07,16.8
-17656,60485,UAE,AH-64E Apache,combat helicopter,Aircraft,2018,6,2024,15.0,15.0,90.0
-17657,60485,UAE,AH-64E Apache,combat helicopter,Aircraft,2018,7,2023,15.0,15.0,105.0
-17658,59876,UAE,Paveway,guided bomb,Missiles,2017,3000,2018,0.02,0.02,60.0
-17659,59876,UAE,Paveway,guided bomb,Missiles,2017,3000,2019,0.02,0.02,60.0
-17660,59876,UAE,Paveway,guided bomb,Missiles,2017,3000,2020,0.02,0.02,60.0
-17661,59876,UAE,Paveway,guided bomb,Missiles,2017,3000,2021,0.02,0.02,60.0
-17662,59876,UAE,Paveway,guided bomb,Missiles,2017,1640,2022,0.02,0.02,32.8
-17663,38992,UAE,S-70L Black Hawk,transport helicopter,Aircraft,2007,10,2008,7.25,7.25,72.5
-17665,56865,UAE,Archangel -,ground-attack aircraft,Aircraft,2014,4,2015,4.9,4.9,19.6
-17666,56865,UAE,Archangel -,ground-attack aircraft,Aircraft,2014,12,2016,4.9,4.9,58.8
-17667,56865,UAE,Archangel -,ground-attack aircraft,Aircraft,2014,8,2017,4.9,4.9,39.2
-17668,62519,UAE,ESSM,SAM,Missiles,2016,48,2018,0.4,0.4,19.2
-17669,62519,UAE,ESSM,SAM,Missiles,2016,48,2019,0.4,0.4,19.2
-17671,32822,UAE,C-130H Hercules,transport aircraft,Aircraft,2001,1,2002,28.0,11.2,11.2
-17672,32822,UAE,C-130H Hercules,transport aircraft,Aircraft,2001,1,2001,28.0,11.2,11.2
-17673,65785,UAE,vehicle engine 301-400,vehicle engine,Engines,2020,193,2022,0.05,0.05,9.65
-17674,58432,UAE,JDAM,guided bomb,Missiles,2014,1800,2015,0.02,0.02,36.0
-17675,58432,UAE,JDAM,guided bomb,Missiles,2014,1800,2016,0.02,0.02,36.0
-17676,60897,UAE,MIM-104 PAC-3 MSE,ABM missile,Missiles,2018,60,2020,1.5,1.5,90.0
-17677,63135,UAE,MIM-104 PAC-3 MSE,ABM missile,Missiles,2019,100,2023,1.5,1.5,150.0
-17678,63135,UAE,MIM-104 PAC-3 MSE,ABM missile,Missiles,2019,50,2024,1.5,1.5,75.0
-17679,63135,UAE,MIM-104 PAC-3 MSE,ABM missile,Missiles,2019,100,2022,1.5,1.5,150.0
-17680,63135,UAE,MIM-104 PAC-3 MSE,ABM missile,Missiles,2019,100,2021,1.5,1.5,150.0
-17681,22536,UAE,vehicle engine 301-400,vehicle engine,Engines,1997,76,1999,0.05,0.05,3.8
-17682,22536,UAE,vehicle engine 301-400,vehicle engine,Engines,1997,60,2000,0.05,0.05,3.0
+17443,63420,United Arab Emirates,AAQ-33 Sniper ATP,aircraft electro-optical system,Sensors,2020,10,2022,1.0,1.0,10.0
+17444,63420,United Arab Emirates,AAQ-33 Sniper ATP,aircraft electro-optical system,Sensors,2020,15,2023,1.0,1.0,15.0
+17445,62598,United Arab Emirates,Patriot-3 SAMS,SAM system,Air-defence systems,2018,1,2023,55.0,55.0,55.0
+17446,62598,United Arab Emirates,Patriot-3 SAMS,SAM system,Air-defence systems,2018,1,2021,55.0,55.0,55.0
+17447,62598,United Arab Emirates,Patriot-3 SAMS,SAM system,Air-defence systems,2018,2,2022,55.0,55.0,110.0
+17448,64377,United Arab Emirates,MIM-104 PAC-2,SAM,Missiles,2019,35,2021,1.0,1.0,35.0
+17449,64377,United Arab Emirates,MIM-104 PAC-2,SAM,Missiles,2019,55,2022,1.0,1.0,55.0
+17450,64377,United Arab Emirates,MIM-104 PAC-2,SAM,Missiles,2019,60,2023,1.0,1.0,60.0
+17451,64810,United Arab Emirates,AGM-114 Hellfire-2,anti-tank/air-to-surface missile,Missiles,2021,300,2022,0.05,0.05,15.0
+17452,64810,United Arab Emirates,AGM-114 Hellfire-2,anti-tank/air-to-surface missile,Missiles,2021,400,2023,0.05,0.05,20.0
+17453,64810,United Arab Emirates,AGM-114 Hellfire-2,anti-tank/air-to-surface missile,Missiles,2021,300,2024,0.05,0.05,15.0
+17454,40075,United Arab Emirates,AGM-114L Hellfire,anti-tank missile,Missiles,2009,631,2012,0.07,0.07,44.17
+17455,40075,United Arab Emirates,AGM-114L Hellfire,anti-tank missile,Missiles,2009,631,2013,0.07,0.07,44.17
+17456,61537,United Arab Emirates,AAQ-33 Sniper ATP,aircraft electro-optical system,Sensors,2000,10,2007,1.0,1.0,10.0
+17457,61537,United Arab Emirates,AAQ-33 Sniper ATP,aircraft electro-optical system,Sensors,2000,10,2006,1.0,1.0,10.0
+17458,61537,United Arab Emirates,AAQ-33 Sniper ATP,aircraft electro-optical system,Sensors,2000,5,2004,1.0,1.0,5.0
+17459,61537,United Arab Emirates,AAQ-33 Sniper ATP,aircraft electro-optical system,Sensors,2000,5,2008,1.0,1.0,5.0
+17460,61537,United Arab Emirates,AAQ-33 Sniper ATP,aircraft electro-optical system,Sensors,2000,10,2005,1.0,1.0,10.0
+17461,40259,United Arab Emirates,MIM-104 PAC-2,SAM,Missiles,2008,50,2012,1.0,1.0,50.0
+17462,40259,United Arab Emirates,MIM-104 PAC-2,SAM,Missiles,2008,75,2013,1.0,1.0,75.0
+17463,40259,United Arab Emirates,MIM-104 PAC-2,SAM,Missiles,2008,91,2014,1.0,1.0,91.0
+17464,52621,United Arab Emirates,CH-47F,transport helicopter,Aircraft,2008,4,2010,20.0,20.0,80.0
+17465,51539,United Arab Emirates,CH-47F,transport helicopter,Aircraft,2011,2,2012,20.0,20.0,40.0
+17466,51539,United Arab Emirates,CH-47F,transport helicopter,Aircraft,2011,4,2013,20.0,20.0,80.0
+17467,51539,United Arab Emirates,CH-47F,transport helicopter,Aircraft,2011,4,2014,20.0,20.0,80.0
+17468,51539,United Arab Emirates,CH-47F,transport helicopter,Aircraft,2011,2,2015,20.0,20.0,40.0
+17469,27143,United Arab Emirates,AIM-9M,short-range air-to-air missile,Missiles,2002,56,2005,0.12,0.12,6.72
+17470,27143,United Arab Emirates,AIM-9M,short-range air-to-air missile,Missiles,2002,42,2004,0.12,0.12,5.04
+17471,27143,United Arab Emirates,AIM-9M,short-range air-to-air missile,Missiles,2002,169,2006,0.12,0.12,20.28
+17472,39378,United Arab Emirates,HIMARS,multiple rocket launcher,Artillery,2008,20,2013,1.1,1.1,22.0
+17473,66346,United Arab Emirates,RIM-116C RAM-2B,SAM,Missiles,2019,30,2023,0.25,0.25,7.5
+17474,66346,United Arab Emirates,RIM-116C RAM-2B,SAM,Missiles,2019,30,2024,0.25,0.25,7.5
+17475,57509,United Arab Emirates,Bell-407,light helicopter,Aircraft,2013,9,2014,1.1,1.1,9.9
+17476,57509,United Arab Emirates,Bell-407,light helicopter,Aircraft,2013,15,2015,1.1,1.1,16.5
+17477,57509,United Arab Emirates,Bell-407,light helicopter,Aircraft,2013,6,2016,1.1,1.1,6.6
+17478,54280,United Arab Emirates,M-ATV,APC,Armoured vehicles,2012,750,2013,0.25,0.25,187.5
+17479,67407,United Arab Emirates,MaxxPro,APC,Armoured vehicles,2023,20,2024,0.32,0.21,4.22
+17480,33452,United Arab Emirates,ESSM,SAM,Missiles,2006,96,2015,0.4,0.4,38.4
+17481,36865,United Arab Emirates,Talon LGR,air-to-surface missile,Missiles,2013,500,2015,0.01,0.01,5.0
+17482,36865,United Arab Emirates,Talon LGR,air-to-surface missile,Missiles,2013,500,2016,0.01,0.01,5.0
+17483,36865,United Arab Emirates,Talon LGR,air-to-surface missile,Missiles,2013,500,2017,0.01,0.01,5.0
+17484,36865,United Arab Emirates,Talon LGR,air-to-surface missile,Missiles,2013,500,2018,0.01,0.01,5.0
+17485,61721,United Arab Emirates,AIM-9X,long-range air-to-air missile,Missiles,2018,100,2019,0.18,0.18,18.0
+17486,61721,United Arab Emirates,AIM-9X,long-range air-to-air missile,Missiles,2018,100,2020,0.18,0.18,18.0
+17487,61721,United Arab Emirates,AIM-9X,long-range air-to-air missile,Missiles,2018,100,2021,0.18,0.18,18.0
+17488,34641,United Arab Emirates,AH-64D Apache Longbow,combat helicopter,Aircraft,2007,18,2009,15.5,15.5,279.0
+17489,34641,United Arab Emirates,AH-64D Apache Longbow,combat helicopter,Aircraft,2007,12,2008,15.5,15.5,186.0
+17490,21144,United Arab Emirates,TPS-70,air-search radar,Sensors,1993,1,1995,11.0,11.0,11.0
+17491,57061,United Arab Emirates,C-17,heavy transport aircraft,Aircraft,2015,2,2015,140.0,140.0,280.0
+17493,39380,United Arab Emirates,GMLRS,guided rocket,Missiles,2008,780,2011,0.08,0.08,62.4
+17494,39380,United Arab Emirates,GMLRS,guided rocket,Missiles,2008,780,2012,0.08,0.08,62.4
+17495,52611,United Arab Emirates,ATACMS-1A,surface-to-surface missile,Missiles,2011,100,2013,2.0,2.0,200.0
+17496,58732,United Arab Emirates,M-ATV,APC,Armoured vehicles,2014,44,2016,0.25,0.1,4.4
+17497,62666,United Arab Emirates,FGM-148 Javelin,anti-tank missile,Missiles,2020,331,2020,0.03,0.03,9.93
+17498,59722,United Arab Emirates,AGM-114 Hellfire-2,anti-tank/air-to-surface missile,Missiles,2017,1000,2018,0.05,0.05,50.0
+17499,55800,United Arab Emirates,RIM-116A RAM,SAM,Missiles,2016,50,2018,0.14,0.14,7.0
+17500,55800,United Arab Emirates,RIM-116A RAM,SAM,Missiles,2016,75,2019,0.14,0.14,10.5
+17501,55800,United Arab Emirates,RIM-116A RAM,SAM,Missiles,2016,75,2020,0.14,0.14,10.5
+17502,59875,United Arab Emirates,JDAM,guided bomb,Missiles,2017,1500,2018,0.02,0.02,30.0
+17503,59234,United Arab Emirates,JDAM,guided bomb,Missiles,2016,1750,2017,0.02,0.02,35.0
+17504,59234,United Arab Emirates,JDAM,guided bomb,Missiles,2016,1754,2018,0.02,0.02,35.08
+17505,58406,United Arab Emirates,MaxxPro,APC,Armoured vehicles,2014,785,2018,0.32,0.32,251.2
+17506,58406,United Arab Emirates,MaxxPro,APC,Armoured vehicles,2014,300,2017,0.32,0.32,96.0
+17507,60604,United Arab Emirates,vehicle engine 401-600,vehicle engine,Engines,2015,12,2019,0.08,0.08,0.96
+17508,60604,United Arab Emirates,vehicle engine 401-600,vehicle engine,Engines,2015,30,2017,0.08,0.08,2.4
+17509,60604,United Arab Emirates,vehicle engine 401-600,vehicle engine,Engines,2015,30,2018,0.08,0.08,2.4
+17510,60604,United Arab Emirates,vehicle engine 401-600,vehicle engine,Engines,2015,28,2016,0.08,0.08,2.24
+17511,60896,United Arab Emirates,MIM-104 PAC-2,SAM,Missiles,2017,50,2019,1.0,1.0,50.0
+17512,60896,United Arab Emirates,MIM-104 PAC-2,SAM,Missiles,2017,50,2020,1.0,1.0,50.0
+17513,50551,United Arab Emirates,THAAD MI,ABM missile,Missiles,2012,50,2018,4.0,4.0,200.0
+17514,50551,United Arab Emirates,THAAD MI,ABM missile,Missiles,2012,50,2016,4.0,4.0,200.0
+17515,50551,United Arab Emirates,THAAD MI,ABM missile,Missiles,2012,50,2017,4.0,4.0,200.0
+17516,50551,United Arab Emirates,THAAD MI,ABM missile,Missiles,2012,21,2019,4.0,4.0,84.0
+17517,50551,United Arab Emirates,THAAD MI,ABM missile,Missiles,2012,21,2015,4.0,4.0,84.0
+17518,62774,United Arab Emirates,ScanEagle,UAV,Aircraft,2019,5,2020,0.04,0.04,0.2
+17519,52105,United Arab Emirates,Predator UAV,UAV,Aircraft,2014,10,2017,2.0,2.0,20.0
+17520,58407,United Arab Emirates,Caiman,APC,Armoured vehicles,2014,488,2016,0.25,0.1,48.8
+17521,58407,United Arab Emirates,Caiman,APC,Armoured vehicles,2014,23,2017,0.25,0.1,2.3
+17522,58407,United Arab Emirates,Caiman,APC,Armoured vehicles,2014,31,2018,0.25,0.1,3.1
+17523,58407,United Arab Emirates,Caiman,APC,Armoured vehicles,2014,11,2019,0.25,0.1,1.1
+17524,61456,United Arab Emirates,DB-110,aircraft reconnaissance system,Sensors,2017,1,2018,4.0,4.0,4.0
+17525,61456,United Arab Emirates,DB-110,aircraft reconnaissance system,Sensors,2017,1,2019,4.0,4.0,4.0
+17526,61237,United Arab Emirates,vehicle engine 401-600,vehicle engine,Engines,2017,38,2022,0.08,0.08,3.04
+17527,61237,United Arab Emirates,vehicle engine 401-600,vehicle engine,Engines,2017,79,2020,0.08,0.08,6.32
+17528,61237,United Arab Emirates,vehicle engine 401-600,vehicle engine,Engines,2017,101,2021,0.08,0.08,8.08
+17529,61237,United Arab Emirates,vehicle engine 401-600,vehicle engine,Engines,2017,180,2023,0.08,0.08,14.4
+17530,61237,United Arab Emirates,vehicle engine 401-600,vehicle engine,Engines,2017,55,2019,0.08,0.08,4.4
+17531,39909,United Arab Emirates,CBU-97,guided bomb,Missiles,2007,50,2008,0.15,0.15,7.5
+17532,39909,United Arab Emirates,CBU-97,guided bomb,Missiles,2007,50,2009,0.15,0.15,7.5
+17533,39913,United Arab Emirates,JDAM,guided bomb,Missiles,2003,202,2006,0.02,0.02,4.04
+17534,40150,United Arab Emirates,Paveway,guided bomb,Missiles,1998,250,2000,0.02,0.02,5.0
+17535,40150,United Arab Emirates,Paveway,guided bomb,Missiles,1998,250,1999,0.02,0.02,5.0
+17536,40150,United Arab Emirates,Paveway,guided bomb,Missiles,1998,273,2004,0.02,0.02,5.46
+17537,40150,United Arab Emirates,Paveway,guided bomb,Missiles,1998,300,2003,0.02,0.02,6.0
+17538,40150,United Arab Emirates,Paveway,guided bomb,Missiles,1998,300,2002,0.02,0.02,6.0
+17539,40150,United Arab Emirates,Paveway,guided bomb,Missiles,1998,300,2001,0.02,0.02,6.0
+17540,40255,United Arab Emirates,Paveway,guided bomb,Missiles,2008,300,2012,0.02,0.02,6.0
+17541,40255,United Arab Emirates,Paveway,guided bomb,Missiles,2008,100,2010,0.02,0.02,2.0
+17542,40255,United Arab Emirates,Paveway,guided bomb,Missiles,2008,300,2011,0.02,0.02,6.0
+17543,40255,United Arab Emirates,Paveway,guided bomb,Missiles,2008,238,2013,0.02,0.02,4.76
+17544,40256,United Arab Emirates,JDAM,guided bomb,Missiles,2008,150,2011,0.02,0.02,3.0
+17545,40256,United Arab Emirates,JDAM,guided bomb,Missiles,2008,150,2012,0.02,0.02,3.0
+17546,50544,United Arab Emirates,S-70L Black Hawk,transport helicopter,Aircraft,2010,15,2011,7.25,7.25,108.75
+17547,50544,United Arab Emirates,S-70L Black Hawk,transport helicopter,Aircraft,2010,11,2012,7.25,7.25,79.75
+17548,50913,United Arab Emirates,S-70L Black Hawk,transport helicopter,Aircraft,2008,5,2009,7.25,7.25,36.25
+17549,50913,United Arab Emirates,S-70L Black Hawk,transport helicopter,Aircraft,2008,5,2010,7.25,7.25,36.25
+17550,50915,United Arab Emirates,S-70L Black Hawk,transport helicopter,Aircraft,2009,7,2012,7.25,7.25,50.75
+17551,50915,United Arab Emirates,S-70L Black Hawk,transport helicopter,Aircraft,2009,7,2013,7.25,7.25,50.75
+17552,51635,United Arab Emirates,AGM-65 Maverick,air-to-surface missile,Missiles,2010,175,2011,0.15,0.15,26.25
+17553,51635,United Arab Emirates,AGM-65 Maverick,air-to-surface missile,Missiles,2010,175,2012,0.15,0.15,26.25
+17554,51635,United Arab Emirates,AGM-65 Maverick,air-to-surface missile,Missiles,2010,150,2013,0.15,0.15,22.5
+17555,52517,United Arab Emirates,APG-78 Longbow,combat helicopter radar,Sensors,2007,18,2009,3.0,3.0,54.0
+17556,52517,United Arab Emirates,APG-78 Longbow,combat helicopter radar,Sensors,2007,12,2008,3.0,3.0,36.0
+17557,53478,United Arab Emirates,GMLRS,guided rocket,Missiles,2015,390,2017,0.08,0.08,31.2
+17558,53559,United Arab Emirates,M-ATV,APC,Armoured vehicles,2011,50,2011,0.25,0.25,12.5
+17559,54276,United Arab Emirates,DB-110,aircraft reconnaissance system,Sensors,2011,6,2013,4.0,4.0,24.0
+17560,54446,United Arab Emirates,CBU-97,guided bomb,Missiles,2010,125,2012,0.15,0.15,18.75
+17561,54446,United Arab Emirates,CBU-97,guided bomb,Missiles,2010,125,2011,0.15,0.15,18.75
+17562,26001,United Arab Emirates,F-16E,FGA aircraft,Aircraft,2000,10,2008,37.5,37.5,375.0
+17563,26001,United Arab Emirates,F-16E,FGA aircraft,Aircraft,2000,8,2004,37.5,37.5,300.0
+17564,26001,United Arab Emirates,F-16E,FGA aircraft,Aircraft,2000,30,2005,37.5,37.5,1125.0
+17565,26001,United Arab Emirates,F-16E,FGA aircraft,Aircraft,2000,22,2006,37.5,37.5,825.0
+17566,26001,United Arab Emirates,F-16E,FGA aircraft,Aircraft,2000,10,2007,37.5,37.5,375.0
+17567,35683,United Arab Emirates,FGM-148 Javelin,anti-tank missile,Missiles,2008,500,2009,0.03,0.03,15.0
+17568,35683,United Arab Emirates,FGM-148 Javelin,anti-tank missile,Missiles,2008,500,2010,0.03,0.03,15.0
+17569,36226,United Arab Emirates,Cessna-208 Caravan,light transport aircraft,Aircraft,2005,6,2005,1.0,1.0,6.0
+17570,36226,United Arab Emirates,Cessna-208 Caravan,light transport aircraft,Aircraft,2005,1,2007,1.0,1.0,1.0
+17571,36226,United Arab Emirates,Cessna-208 Caravan,light transport aircraft,Aircraft,2005,1,2006,1.0,1.0,1.0
+17572,37041,United Arab Emirates,aircraft engine 3001-4500,aircraft engine,Engines,2005,4,2010,1.1,1.1,4.4
+17573,37041,United Arab Emirates,aircraft engine 3001-4500,aircraft engine,Engines,2005,6,2009,1.1,1.1,6.6
+17574,37041,United Arab Emirates,aircraft engine 3001-4500,aircraft engine,Engines,2005,6,2006,1.1,1.1,6.6
+17575,39382,United Arab Emirates,RIM-116A RAM,SAM,Missiles,2007,30,2011,0.14,0.14,4.2
+17576,39382,United Arab Emirates,RIM-116A RAM,SAM,Missiles,2007,30,2013,0.14,0.14,4.2
+17577,39382,United Arab Emirates,RIM-116A RAM,SAM,Missiles,2007,30,2012,0.14,0.14,4.2
+17578,39382,United Arab Emirates,RIM-116A RAM,SAM,Missiles,2007,30,2015,0.14,0.14,4.2
+17579,39382,United Arab Emirates,RIM-116A RAM,SAM,Missiles,2007,30,2016,0.14,0.14,4.2
+17580,40032,United Arab Emirates,Dash-8,transport aircraft,Aircraft,2007,4,2007,9.0,3.6,14.4
+17581,40213,United Arab Emirates,Patriot-3 SAMS,SAM system,Air-defence systems,2008,4,2013,55.0,55.0,220.0
+17582,40213,United Arab Emirates,Patriot-3 SAMS,SAM system,Air-defence systems,2008,2,2012,55.0,55.0,110.0
+17583,40213,United Arab Emirates,Patriot-3 SAMS,SAM system,Air-defence systems,2008,3,2014,55.0,55.0,165.0
+17584,40254,United Arab Emirates,AIM-120C AMRAAM,long-range air-to-air missile,Missiles,2009,72,2013,0.6,0.6,43.2
+17585,40254,United Arab Emirates,AIM-120C AMRAAM,long-range air-to-air missile,Missiles,2009,152,2014,0.6,0.6,91.2
+17586,50550,United Arab Emirates,THAAD,ABM system,Air-defence systems,2011,1,2015,250.0,250.0,250.0
+17587,50550,United Arab Emirates,THAAD,ABM system,Air-defence systems,2011,1,2016,250.0,250.0,250.0
+17588,50736,United Arab Emirates,MIM-104 PAC-3,ABM missile,Missiles,2008,92,2012,0.8,0.8,73.6
+17589,50736,United Arab Emirates,MIM-104 PAC-3,ABM missile,Missiles,2008,100,2013,0.8,0.8,80.0
+17590,50736,United Arab Emirates,MIM-104 PAC-3,ABM missile,Missiles,2008,100,2014,0.8,0.8,80.0
+17591,50879,United Arab Emirates,C-17,heavy transport aircraft,Aircraft,2009,4,2011,140.0,140.0,560.0
+17592,50879,United Arab Emirates,C-17,heavy transport aircraft,Aircraft,2009,2,2012,140.0,140.0,280.0
+17593,57980,United Arab Emirates,ATACMS-1A,surface-to-surface missile,Missiles,2015,50,2018,2.0,2.0,100.0
+17594,57980,United Arab Emirates,ATACMS-1A,surface-to-surface missile,Missiles,2015,50,2019,2.0,2.0,100.0
+17595,52085,United Arab Emirates,AT-802U -,ground-attack aircraft,Aircraft,2010,6,2011,4.9,4.9,29.4
+17596,52085,United Arab Emirates,AT-802U -,ground-attack aircraft,Aircraft,2010,4,2010,4.9,4.9,19.6
+17597,52085,United Arab Emirates,AT-802U -,ground-attack aircraft,Aircraft,2010,10,2012,4.9,4.9,49.0
+17598,52085,United Arab Emirates,AT-802U -,ground-attack aircraft,Aircraft,2010,3,2013,4.9,4.9,14.7
+17599,52085,United Arab Emirates,AT-802U -,ground-attack aircraft,Aircraft,2010,1,2014,4.9,4.9,4.9
+17600,53165,United Arab Emirates,F-16E,FGA aircraft,Aircraft,2010,1,2012,37.5,37.5,37.5
+17601,57979,United Arab Emirates,HIMARS,multiple rocket launcher,Artillery,2015,12,2018,1.1,1.1,13.2
+17617,17774,United Arab Emirates,AIM-9L,short-range air-to-air missile,Missiles,1989,54,1990,0.11,0.11,5.94
+17620,20062,United Arab Emirates,AH-64A Apache,combat helicopter,Aircraft,1991,6,1993,14.0,14.0,84.0
+17621,20062,United Arab Emirates,AH-64A Apache,combat helicopter,Aircraft,1991,14,1994,14.0,14.0,196.0
+17622,20321,United Arab Emirates,AGM-114 Hellfire,anti-tank missile,Missiles,1991,200,1993,0.04,0.04,8.0
+17623,20321,United Arab Emirates,AGM-114 Hellfire,anti-tank missile,Missiles,1991,420,1994,0.04,0.04,16.8
+17624,21737,United Arab Emirates,AGM-114 Hellfire,anti-tank missile,Missiles,1994,360,1996,0.04,0.04,14.4
+17625,21738,United Arab Emirates,AH-64A Apache,combat helicopter,Aircraft,1994,10,1996,14.0,14.0,140.0
+17626,22848,United Arab Emirates,TPS-63,air-search radar,Sensors,1993,1,1995,5.0,5.0,5.0
+17628,23843,United Arab Emirates,M-198 155mm,towed gun,Artillery,1994,12,1995,0.85,0.85,10.2
+17630,25240,United Arab Emirates,Harpoon Block-1,anti-ship missile,Missiles,1998,15,1998,0.9,0.9,13.5
+17631,25240,United Arab Emirates,Harpoon Block-1,anti-ship missile,Missiles,1998,8,2000,0.9,0.9,7.2
+17632,25240,United Arab Emirates,Harpoon Block-1,anti-ship missile,Missiles,1998,1,2001,0.9,0.9,0.9
+17633,25241,United Arab Emirates,AIM-7M,long-range air-to-air missile,Missiles,1997,36,1998,0.18,0.18,6.48
+17634,25241,United Arab Emirates,AIM-7M,long-range air-to-air missile,Missiles,1997,36,1999,0.18,0.18,6.48
+17635,27142,United Arab Emirates,AIM-120B AMRAAM,long-range air-to-air missile,Missiles,2003,100,2004,0.4,0.4,40.0
+17636,27142,United Arab Emirates,AIM-120B AMRAAM,long-range air-to-air missile,Missiles,2003,151,2005,0.4,0.4,60.4
+17637,27142,United Arab Emirates,AIM-120B AMRAAM,long-range air-to-air missile,Missiles,2003,140,2006,0.4,0.4,56.0
+17638,27142,United Arab Emirates,AIM-120B AMRAAM,long-range air-to-air missile,Missiles,2003,100,2007,0.4,0.4,40.0
+17639,27144,United Arab Emirates,AGM-88 HARM,anti-radar missile,Missiles,2001,151,2006,0.25,0.25,37.75
+17640,27144,United Arab Emirates,AGM-88 HARM,anti-radar missile,Missiles,2001,8,2007,0.25,0.25,2.0
+17641,27145,United Arab Emirates,AGM-65 Maverick,air-to-surface missile,Missiles,2002,200,2003,0.15,0.15,30.0
+17642,27145,United Arab Emirates,AGM-65 Maverick,air-to-surface missile,Missiles,2002,200,2004,0.15,0.15,30.0
+17643,27145,United Arab Emirates,AGM-65 Maverick,air-to-surface missile,Missiles,2002,200,2005,0.15,0.15,30.0
+17644,27145,United Arab Emirates,AGM-65 Maverick,air-to-surface missile,Missiles,2002,300,2006,0.15,0.15,45.0
+17645,27145,United Arab Emirates,AGM-65 Maverick,air-to-surface missile,Missiles,2002,263,2007,0.15,0.15,39.45
+17646,27146,United Arab Emirates,Harpoon Block-1,anti-ship missile,Missiles,2003,12,2005,0.9,0.9,10.8
+17647,29114,United Arab Emirates,King Air,light transport aircraft,Aircraft,1996,2,1997,2.85,2.85,5.7
+17648,56574,United Arab Emirates,GBU-39 SDB,guided glide bomb,Missiles,2014,1000,2018,0.02,0.02,20.0
+17649,56574,United Arab Emirates,GBU-39 SDB,guided glide bomb,Missiles,2014,1000,2017,0.02,0.02,20.0
+17650,56574,United Arab Emirates,GBU-39 SDB,guided glide bomb,Missiles,2014,1000,2016,0.02,0.02,20.0
+17651,56574,United Arab Emirates,GBU-39 SDB,guided glide bomb,Missiles,2014,1000,2015,0.02,0.02,20.0
+17652,56574,United Arab Emirates,GBU-39 SDB,guided glide bomb,Missiles,2014,1000,2019,0.02,0.02,20.0
+17653,33449,United Arab Emirates,AGM-114 Hellfire-2,anti-tank/air-to-surface missile,Missiles,2002,49,2005,0.05,0.05,2.45
+17654,36606,United Arab Emirates,Paveway,guided bomb,Missiles,2004,50,2005,0.02,0.02,1.0
+17655,37729,United Arab Emirates,AGM-114L Hellfire,anti-tank missile,Missiles,2002,240,2005,0.07,0.07,16.8
+17656,60485,United Arab Emirates,AH-64E Apache,combat helicopter,Aircraft,2018,6,2024,15.0,15.0,90.0
+17657,60485,United Arab Emirates,AH-64E Apache,combat helicopter,Aircraft,2018,7,2023,15.0,15.0,105.0
+17658,59876,United Arab Emirates,Paveway,guided bomb,Missiles,2017,3000,2018,0.02,0.02,60.0
+17659,59876,United Arab Emirates,Paveway,guided bomb,Missiles,2017,3000,2019,0.02,0.02,60.0
+17660,59876,United Arab Emirates,Paveway,guided bomb,Missiles,2017,3000,2020,0.02,0.02,60.0
+17661,59876,United Arab Emirates,Paveway,guided bomb,Missiles,2017,3000,2021,0.02,0.02,60.0
+17662,59876,United Arab Emirates,Paveway,guided bomb,Missiles,2017,1640,2022,0.02,0.02,32.8
+17663,38992,United Arab Emirates,S-70L Black Hawk,transport helicopter,Aircraft,2007,10,2008,7.25,7.25,72.5
+17665,56865,United Arab Emirates,Archangel -,ground-attack aircraft,Aircraft,2014,4,2015,4.9,4.9,19.6
+17666,56865,United Arab Emirates,Archangel -,ground-attack aircraft,Aircraft,2014,12,2016,4.9,4.9,58.8
+17667,56865,United Arab Emirates,Archangel -,ground-attack aircraft,Aircraft,2014,8,2017,4.9,4.9,39.2
+17668,62519,United Arab Emirates,ESSM,SAM,Missiles,2016,48,2018,0.4,0.4,19.2
+17669,62519,United Arab Emirates,ESSM,SAM,Missiles,2016,48,2019,0.4,0.4,19.2
+17671,32822,United Arab Emirates,C-130H Hercules,transport aircraft,Aircraft,2001,1,2002,28.0,11.2,11.2
+17672,32822,United Arab Emirates,C-130H Hercules,transport aircraft,Aircraft,2001,1,2001,28.0,11.2,11.2
+17673,65785,United Arab Emirates,vehicle engine 301-400,vehicle engine,Engines,2020,193,2022,0.05,0.05,9.65
+17674,58432,United Arab Emirates,JDAM,guided bomb,Missiles,2014,1800,2015,0.02,0.02,36.0
+17675,58432,United Arab Emirates,JDAM,guided bomb,Missiles,2014,1800,2016,0.02,0.02,36.0
+17676,60897,United Arab Emirates,MIM-104 PAC-3 MSE,ABM missile,Missiles,2018,60,2020,1.5,1.5,90.0
+17677,63135,United Arab Emirates,MIM-104 PAC-3 MSE,ABM missile,Missiles,2019,100,2023,1.5,1.5,150.0
+17678,63135,United Arab Emirates,MIM-104 PAC-3 MSE,ABM missile,Missiles,2019,50,2024,1.5,1.5,75.0
+17679,63135,United Arab Emirates,MIM-104 PAC-3 MSE,ABM missile,Missiles,2019,100,2022,1.5,1.5,150.0
+17680,63135,United Arab Emirates,MIM-104 PAC-3 MSE,ABM missile,Missiles,2019,100,2021,1.5,1.5,150.0
+17681,22536,United Arab Emirates,vehicle engine 301-400,vehicle engine,Engines,1997,76,1999,0.05,0.05,3.8
+17682,22536,United Arab Emirates,vehicle engine 301-400,vehicle engine,Engines,1997,60,2000,0.05,0.05,3.0
 17683,58796,Uganda,UH-1H Huey-2,helicopter,Aircraft,2016,5,2017,3.1,3.1,15.5
 17684,58158,Uganda,RG-33,APC,Armoured vehicles,2013,10,2015,0.2,0.08,0.8
 17691,58795,Uganda,Cessna-208 Caravan,light transport aircraft,Aircraft,2014,2,2015,1.0,1.0,2.0
@@ -8611,11 +8609,11 @@
 18568,36776,Venezuela,vehicle engine 201-300,vehicle engine,Engines,1988,15,1990,0.03,0.03,0.45
 18571,38045,Venezuela,ship engine 6001-8000,ship engine,Engines,1999,2,2001,2.5,2.5,5.0
 18572,38506,Venezuela,HS-7,anti-submarine sonar,Sensors,1998,2,2002,5.0,5.0,10.0
-18573,63012,Viet Nam,T-6 Texan-2 -,(armed) trainer aircraft,Aircraft,2021,5,2024,2.0,2.0,10.0
-18574,60396,Viet Nam,Hamilton,patrol ship,Ships,2016,1,2017,135.0,54.0,54.0
-18575,63183,Viet Nam,Hamilton,patrol ship,Ships,2019,1,2021,135.0,54.0,54.0
-18576,62756,Viet Nam,ScanEagle,UAV,Aircraft,2019,6,2022,0.04,0.04,0.24
-18577,64372,Viet Nam,FJ-44-4 (1650),turbofan,Engines,2021,6,2024,0.6,0.6,3.6
+18573,63012,Vietnam,T-6 Texan-2 -,(armed) trainer aircraft,Aircraft,2021,5,2024,2.0,2.0,10.0
+18574,60396,Vietnam,Hamilton,patrol ship,Ships,2016,1,2017,135.0,54.0,54.0
+18575,63183,Vietnam,Hamilton,patrol ship,Ships,2019,1,2021,135.0,54.0,54.0
+18576,62756,Vietnam,ScanEagle,UAV,Aircraft,2019,6,2022,0.04,0.04,0.24
+18577,64372,Vietnam,FJ-44-4 (1650),turbofan,Engines,2021,6,2024,0.6,0.6,3.6
 18578,56355,Yemen,Cessna-208 Caravan,light transport aircraft,Aircraft,2012,2,2013,1.0,1.0,2.0
 18579,39635,Yemen,M-113,APC,Armoured vehicles,2005,32,2006,0.25,0.1,3.2
 18580,57577,Yemen,King Air ISR,ground surveillance aircraft,Aircraft,2014,1,2015,11.0,11.0,11.0

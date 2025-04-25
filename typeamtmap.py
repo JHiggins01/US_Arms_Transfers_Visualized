@@ -27,18 +27,6 @@ with zipfile.ZipFile(zip_shapefile_path, 'r') as zipf:
 shapefile_name = shp_files[0]
 world = gpd.read_file(f"zip://{zip_shapefile_path}!{shapefile_name}")
 
-#dictionary for standardizing names
-name_mapping = {
-    "Bosnia-Herzegovina":"Bosnia and Herz.",
-    "Central African Republic":"Central African Rep.",
-    "Cote d'Ivoire":"Côte d'Ivoire",
-    "DR Congo":"Dem. Rep. Congo",
-    "Dominican Republic":"Dominican Rep.",
-    "Equatorial Guinea":"Eq. Guinea",
-    "Saint Vincent":"St. Vin. and Gren.",
-    "Turkiye":"Turkey",
-    "UAE":"United Arab Emirates",
-    "Viet Nam":"Vietnam",}
 
 # %%
 
@@ -53,11 +41,6 @@ def create_arms_export_map(arms_data_path, output_path=None,
 #filtering by desired year range
     if start_year is not None and end_year is not None:
         arms_df = arms_df[(arms_df[year_col] >= start_year) & (arms_df[year_col] <= end_year)]
-        
-#ensuring standard names to match the shape file
-    arms_df[country_col] = arms_df[country_col].replace(name_mapping)
-    #dropping 2 small deliveries to South Sudan - not included in Shape
-    arms_df = arms_df[~arms_df[country_col].str.contains('South Sudan', na=False)]
 
 #aggregating data by weapon type exported to each country
     country_type = arms_df.groupby([country_col, type_col])[value_col].sum().reset_index()
@@ -82,6 +65,7 @@ def create_arms_export_map(arms_data_path, output_path=None,
     
 #creating the map
     fig, ax = plt.subplots(1, 1, figsize=(15, 10))
+    
     #plotting countries with no data
     world[world['export_type'].isna()].plot(ax=ax, color='lightgray')
     #plotting countries with  data
@@ -90,6 +74,8 @@ def create_arms_export_map(arms_data_path, output_path=None,
             ax=ax, 
             color=colors[export_type],
             label=export_type)
+    #adding borders to each country
+    world.boundary.plot(ax=ax, linewidth=0.2, edgecolor='black')
     
     #adding legend
     from matplotlib.patches import Patch #importing patch from matplotlib which 
@@ -107,7 +93,9 @@ def create_arms_export_map(arms_data_path, output_path=None,
     ax.set_title(f'Most Common US Arms Export Type by Country ({time_range})', fontsize=16)
     ax.set_axis_off()
     
-    
+    #ensuring equal aspect ratio for all date ranges
+    ax.set_aspect('equal')
+
     #saving figure to outpath if provided
     if output_path:
         fig.tight_layout()
@@ -128,3 +116,8 @@ fig, ax = create_arms_export_map(
     arms_data_path='trimmed_trade.csv',
     output_path='us_arms_exports_typemap_2022-2024.png', 
     start_year=2022, end_year=2024)
+
+fig, ax = create_arms_export_map(
+    arms_data_path='trimmed_trade.csv',
+    output_path='us_arms_exports_typemap_2003-2016.png', 
+    start_year=2003, end_year=2016)
