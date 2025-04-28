@@ -102,6 +102,7 @@ def create_arms_export_map(arms_data_path, output_path=None,
         fig.savefig(output_path, bbox_inches='tight')
         print(f"Map saved to {output_path}")
     
+    
 #returning 
     return fig, ax
 
