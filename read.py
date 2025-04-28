@@ -8,9 +8,25 @@ Created on Mon Apr 14 12:51:21 2025
 
 import pandas as pd
 
-#reading in data
-trade = pd.read_csv("trade-register.csv")
+# opening data to find true header
+file_path = 'trade-register.csv'
 
+# finding line number where true header starts
+header_line_idx = None
+with open(file_path, 'r', encoding='latin1') as f:  # <--- changed encoding
+    for idx, line in enumerate(f):
+        if line.startswith('SIPRI AT'):
+            header_line_idx = idx
+            break
+if header_line_idx is None:
+    raise ValueError("Header line starting with 'Recipient' not found.")
+
+# reading in data
+trade = pd.read_csv(file_path, skiprows=header_line_idx, header=0, encoding='latin1')
+
+# %%
+
+#checking list of unique recipients to remove non-state entries
 unique_values = trade['Recipient'].unique().tolist()
 
 #removing non-country records
@@ -25,7 +41,8 @@ trimmed_trade = trimmed_trade.drop(columns = ['Order date is estimate',
                                               'Numbers delivered is estimate',
                                               'Delivery year is estimate',
                                               'Supplier', 'Local production',
-                                              'Status'])
+                                              'Status',
+                                              'SIPRI AT Database ID'])
 #renaming columns for ease
 trimmed_trade = trimmed_trade.rename(columns = {'TIV delivery values':'Total TIV'})
 
