@@ -24,7 +24,7 @@ arms_data = pd.read_csv('trimmed_trade.csv')
 #creating path to zipped shapefile
 zip_shapefile_path = 'ne_10m_admin_0_countries.zip'
 
-#checking shapefiles files in the zip
+#checking shapefiles in the zip
 with zipfile.ZipFile(zip_shapefile_path, 'r') as zipf:
     shp_files = [f for f in zipf.namelist() if f.endswith('.shp')]
     print(f"Shapefile(s) found in the zip: {shp_files}")

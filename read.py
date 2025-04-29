@@ -62,7 +62,7 @@ name_mapping = {
     "UAE":"United Arab Emirates",
     "Viet Nam":"Vietnam",}
 
-#renaming and creating standardized name column to use later
+#standardizing names to match shape file
 trimmed_trade['Recipient'] = trimmed_trade['Recipient'].replace(name_mapping)
 #dropping 2 small deliveries to South Sudan - not included in Shape
 trimmed_trade = trimmed_trade[~trimmed_trade['Recipient'].str.contains('South Sudan', na=False)]
