@@ -79,5 +79,5 @@ merged_data[numeric_columns] = merged_data[numeric_columns].fillna(0)
 
 # %%
 
-#saving as GeoPackage
-merged_data.to_file("arms_transfers_map.gpkg", driver='GPKG', layer='arms_transfers')
+# Save as Shapefile
+merged_data.to_file("arms_transfers_map.shp")
