@@ -27,6 +27,8 @@ with zipfile.ZipFile(zip_shapefile_path, 'r') as zipf:
 shapefile_name = shp_files[0]
 world = gpd.read_file(f"zip://{zip_shapefile_path}!{shapefile_name}")
 
+#keeping only necessary name and geomoetry columns
+world = world[['NAME', 'geometry']]
 
 # %%
 
