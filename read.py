@@ -42,7 +42,13 @@ trimmed_trade = trimmed_trade.drop(columns = ['Order date is estimate',
                                               'Delivery year is estimate',
                                               'Supplier', 'Local production',
                                               'Status',
-                                              'SIPRI AT Database ID'])
+                                              'SIPRI AT Database ID',
+                                              'Designation',
+                                              'Description',
+                                              'Order date',
+                                              'Numbers delivered',
+                                              'SIPRI estimate',
+                                              'TIV deal unit'])
 #renaming columns for ease
 trimmed_trade = trimmed_trade.rename(columns = {'TIV delivery values':'Total TIV'})
 
@@ -68,4 +74,4 @@ trimmed_trade['Recipient'] = trimmed_trade['Recipient'].replace(name_mapping)
 trimmed_trade = trimmed_trade[~trimmed_trade['Recipient'].str.contains('South Sudan', na=False)]
 
 #saving to a csv
-trimmed_trade.to_csv('trimmed_trade.csv')
+trimmed_trade.to_csv('trimmed_trade.csv', index=False)
