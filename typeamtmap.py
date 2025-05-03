@@ -122,5 +122,5 @@ fig, ax = create_arms_export_map(
 
 fig, ax = create_arms_export_map(
     arms_data_path='trimmed_trade.csv',
-    output_path='Images/us_arms_exports_typemap_2003-2016.png', 
+    output_path='Images/us_arms_exports_typemap_2003-2011.png', 
     start_year=2003, end_year=2011)
