@@ -111,16 +111,16 @@ def create_arms_export_map(arms_data_path, output_path=None,
 # %%
 #calling the function to create a map for the total time period
 fig, ax = create_arms_export_map(
-    arms_data_path='trimmed_trade.csv',  #Path to your CSV data file
-    output_path='us_arms_exports_typemap_1990-2024.png')  # Where to save the map
+    arms_data_path='trimmed_trade.csv',  #Path to data file
+    output_path='Images/us_arms_exports_typemap_1990-2024.png')  # Where to save the map
 
 #calling the function for 2022-2024
 fig, ax = create_arms_export_map(
     arms_data_path='trimmed_trade.csv',
-    output_path='us_arms_exports_typemap_2022-2024.png', 
+    output_path='Images/us_arms_exports_typemap_2022-2024.png', 
     start_year=2022, end_year=2024)
 
 fig, ax = create_arms_export_map(
     arms_data_path='trimmed_trade.csv',
-    output_path='us_arms_exports_typemap_2003-2016.png', 
-    start_year=2003, end_year=2016)
+    output_path='Images/us_arms_exports_typemap_2003-2016.png', 
+    start_year=2003, end_year=2011)

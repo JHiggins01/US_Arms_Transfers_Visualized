@@ -100,7 +100,7 @@ def heat_map (data, start_year = None, end_year = None):
     
     #saving
     fig.tight_layout()
-    fig.savefig(f"us_arms_exports_heatmap_{years_label}.png", bbox_inches='tight')
+    fig.savefig(f"Images/us_arms_exports_heatmap_{years_label}.png", bbox_inches='tight')
     
     return fig, ax
 # %%
